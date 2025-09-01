@@ -10,7 +10,7 @@ redirect_from:
 <div style="text-align: justify; text-justify: inter-word;">
 <p>Hello! I am Guojiang Zhao (you can also call me Cody), currently working at DP Technology, where I am fortunate to be mentored by <a href="https://scholar.google.com/citations?user=uBo3SJcAAAAJ&hl=en" target="_blank"><b>Zhifeng Gao</b></a>  and <a href="https://scholar.google.com/citations?user=M2qJgtoAAAAJ&hl=en" target="_blank"><b>Guolin Ke</b></a>. My research focuses on molecular design, large language models (LLMs) reasoning, and self-evolving agents. Broadly, my interests lie in AI for Science (AI4S), particularly in molecular and materials generation, virtual characterization, and property prediction. Building on these directions, I am now exploring LLM-driven reasoning frameworks and multi-agent systems to advance intelligent scientific discovery and molecular design.</p>
 
-<p>I received my M.S. in Information Systems Management from Carnegie Mellon University (CMU) in 2023, and my B.S. in Information and Computing Science (Mathematics track) from Xi’an University of Posts and Telecommunications (XUPT), where I ranked first in my major. In addition, I have had visiting research experiences at the National University of Singapore (NUS) and the <a href="https://en.westlake.edu.cn/faculty/stan-zq-li.html" target="_blank"><b>Stan Z. Li Lab</b></a> at Westlake University. Previously, I also gained industry research experience through internships at WeChat (Tencent), MetaApp, and Huawei.</p>
+<p>I received my M.S. in Information Systems Management from Carnegie Mellon University  in 2023, and my B.S. in Information and Computing Science (Mathematics track) from Xi’an University of Posts and Telecommunications (XUPT), where I ranked first in my major. In addition, I have had visiting research experiences at the National University of Singapore (NUS) and the <a href="https://en.westlake.edu.cn/faculty/stan-zq-li.html" target="_blank"><b>Stan Z. Li Lab</b></a> at Westlake University. Previously, I also gained industry research experience through internships at WeChat (Tencent), MetaApp, and Huawei.</p>
 
 <p>If you are interested in AI4S, LLM reasoning, or intelligent agents, feel free to reach out — I am always happy to discuss and collaborate!</p>
 
@@ -55,11 +55,11 @@ redirect_from:
 
 <h2 id="Selected Publications">📝 Selected Publications</h2>
 _<sup>\*</sup> denotes equal contribution_ -->
+
 <h2 id="Selected Publications">📝 Selected Publications</h2>
 
 <table class="imgtable" style="border:0; border-collapse:collapse; width:100%;">
   <tr>
-    <!-- 左侧图片列 -->
     <td style="border:0; vertical-align:top; padding-right:16px; width:320px;">
       <img
         src="./images/papers/molreasoner.png"
@@ -98,7 +98,6 @@ _<sup>\*</sup> denotes equal contribution_ -->
       <p style="margin:0;">
         [<a href="https://arxiv.org/pdf/2508.02066" target="_blank" style="color:#2a7ce0;">PDF</a>]
         [<a href="https://github.com/545487677/MolReasoner" target="_blank" style="color:#2a7ce0;">Code</a>]
-        [<a href="./Files/molreasoner_bibtex.html" target="_blank" style="color:#2a7ce0;">BibTeX</a>]
       </p>
     </td>
 
