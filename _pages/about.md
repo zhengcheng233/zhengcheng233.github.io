@@ -247,3 +247,25 @@ redirect_from:
 
   </div>
 </div>
+
+<!-- R3 - TRL@ACL -->
+<div class="pub-entry">
+  <img src="./images/papers/trlacl.png" alt='R^3: "This is My SQL, Are You With Me?"'>
+  <div class="pub-text">
+    <p><b>
+      <a href="https://aclanthology.org/2025.trl-1.4/" target="_blank" style="color:#2a7ce0; text-decoration:none;">
+        R<sup>3</sup>: "This is My SQL, Are You With Me?" A Consensus-Based Multi-Agent System for Text-to-SQL Tasks
+      </a>
+    </b></p>
+
+    <p><i>
+      Hanchen Xia, Feng Jiang, Naihao Deng, Cunxiang Wang, <b>Guojiang Zhao</b>, Rada Mihalcea, Yue Zhang
+    </i></p>
+
+    <p><i><b>TRL@ACL, 2025 (<font color="#FF0000">Oral</font>)</b></i></p>
+
+    <p>
+      [<a href="https://aclanthology.org/2025.trl-1.4/" target="_blank" style="color:#2a7ce0;">PDF</a>]
+    </p>
+  </div>
+</div>
