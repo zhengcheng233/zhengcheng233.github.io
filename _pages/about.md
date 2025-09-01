@@ -51,41 +51,68 @@ redirect_from:
   </ul>
 </div>
 
+<!--
+
 <h2 id="Selected Publications">📝 Selected Publications</h2>
-_<sup>\*</sup> denotes equal contribution_
+_<sup>\*</sup> denotes equal contribution_ -->
+<h2 id="Selected Publications">📝 Selected Publications</h2>
+_<sup>*</sup> denotes equal contribution_
 
-<table class="imgtable"><tr><td>
-    <!-- 左侧封面图 -->
-    <img src="./images/papers/molreasoner.png" 
-         style="border:1.2px solid #464646;padding:5px;border-radius:14px;box-shadow:1.2px 1.2px #bbbbbb" 
-         alt="MolReasoner" width="220px" />&nbsp;
-</td>
-<td align="left"><p>
-    <!-- 论文标题 -->
-    <font size="2pt" face="Georgia">
-        <b><a href="https://arxiv.org/pdf/2508.02066" target="_blank" style="color:#2a7ce0">
+<table class="imgtable" style="border:0; border-collapse:collapse; width:100%;">
+  <tr>
+    <!-- 左侧图片列 -->
+    <td style="border:0; vertical-align:top; padding-right:16px; width:320px;">
+      <img
+        src="./images/papers/molreasoner.png"
+        alt="MolReasoner"
+        style="
+          display:block;
+          width:320px;           /* 调整这里可放大/缩小，例如 320/340/360 */
+          max-width:100%;        /* 小屏自动适配 */
+          height:auto; 
+          border:1.2px solid #464646;
+          padding:5px;
+          border-radius:14px;
+          box-shadow:1.2px 1.2px #bbbbbb;
+        "
+      />
+    </td>
+
+    <!-- 右侧文字列 -->
+    <td style="border:0; vertical-align:top;">
+      <p style="margin:0 0 6px 0;">
+        <span style="font-family:Georgia; font-size:0.95rem; font-weight:bold;">
+          <a href="https://arxiv.org/pdf/2508.02066" target="_blank" style="color:#2a7ce0; text-decoration:none;">
             MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs
-        </a></b>
-    </font><br>
-    <!-- 作者 -->
-    <i><b>Guojiang Zhao</b><sup>*</sup>, Sihang Li<sup>*</sup>, Zixiang Lu, Zheng Cheng, Haitao Lin, 
-       Lirong Wu, Hanchen Xia, Hengxing Cai, Wentao Guo, Hongshuai Wang, Mingjun Xu, Siyu Zhu, 
-       Guolin Ke, Linfeng Zhang, Zhifeng Gao</i><br>
-    <!-- 会议信息 -->
-    <i><b>arXiv preprint: 2508.02066, 2025</b></i><br>
-    <!-- 链接 -->
-    [<a href="https://arxiv.org/pdf/2508.02066" target="_blank" style="color:#2a7ce0">PDF</a>] 
-    [<a href="https://github.com/545487677/MolReasoner" target="_blank" style="color:#2a7ce0">Code</a>] 
-    [<a href="./Files/molreasoner_bibtex.html" target="_blank" style="color:#2a7ce0">BibTeX</a>] <br>
-</p></td></tr></table>
+          </a>
+        </span>
+      </p>
 
-<!-- 
-**MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs**  
-**Guojiang Zhao**<sup>\*</sup>, Sihang Li<sup>\*</sup>, Zixiang Lu, Zheng Cheng, Haitao Lin, Lirong Wu, Hanchen Xia, Hengxing Cai, Wentao Guo, Hongshuai Wang, Mingjun Xu, Siyu Zhu, Guolin Ke, Linfeng Zhang, Zhifeng Gao  
-_arXiv preprint: 2508.02066, 2025_  
+      <p style="margin:0 0 6px 0; font-style:italic;">
+        <b>Guojiang Zhao</b><sup>*</sup>, Sihang Li<sup>*</sup>, Zixiang Lu, Zheng Cheng, Haitao Lin,
+        Lirong Wu, Hanchen Xia, Hengxing Cai, Wentao Guo, Hongshuai Wang, Mingjun Xu,
+        Siyu Zhu, Guolin Ke, Linfeng Zhang, Zhifeng Gao
+      </p>
+
+      <p style="margin:0 0 8px 0; font-style:italic;"><b>arXiv preprint: 2508.02066, 2025</b></p>
+
+      <p style="margin:0;">
+        [<a href="https://arxiv.org/pdf/2508.02066" target="_blank" style="color:#2a7ce0;">PDF</a>]
+        [<a href="https://github.com/545487677/MolReasoner" target="_blank" style="color:#2a7ce0;">Code</a>]
+        [<a href="./Files/molreasoner_bibtex.html" target="_blank" style="color:#2a7ce0;">BibTeX</a>]
+      </p>
+    </td>
+
+  </tr>
+</table>
+
+<!--
+**MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs**
+**Guojiang Zhao**<sup>\*</sup>, Sihang Li<sup>\*</sup>, Zixiang Lu, Zheng Cheng, Haitao Lin, Lirong Wu, Hanchen Xia, Hengxing Cai, Wentao Guo, Hongshuai Wang, Mingjun Xu, Siyu Zhu, Guolin Ke, Linfeng Zhang, Zhifeng Gao
+_arXiv preprint: 2508.02066, 2025_
 [📄 Paper](https://arxiv.org/pdf/2508.02066) | [💻 Code](https://github.com/545487677/MolReasoner)
-<!-- 
-**Virtual Characterization via Knowledge-Enhanced Representation Learning: from Organic Conjugated Molecules to Devices**  
-**Guojiang Zhao**<sup>\*</sup>, Qi Ou<sup>\*</sup>, Zifeng Zhao<sup>\*</sup>, Shangqian Chen, Haitao Lin, Xiaohong Ji, Zhen Wang, Hongshuai Wang, Hengxing Cai, Lirong Wu, Shuqi Lu, FengTianCi Yang, Yaping Wen, Yingfeng Zhang, Haibo Ma, Zhifeng Gao, Zheng Cheng  
-_npj Computational Materials, 2025 (SCI Q1, 5-year Journal Impact Factor: 13.0 (2024))_  
-[📄 Paper](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/67ffb41a50018ac7c5a45d5b/original/virtual-characterization-via-knowledge-enhanced-representation-learning-from-organic-conjugated-molecules-to-devices.pdf) | [💻 Code](https://github.com/545487677/OCNet) --> -->
+<!--
+**Virtual Characterization via Knowledge-Enhanced Representation Learning: from Organic Conjugated Molecules to Devices**
+**Guojiang Zhao**<sup>\*</sup>, Qi Ou<sup>\*</sup>, Zifeng Zhao<sup>\*</sup>, Shangqian Chen, Haitao Lin, Xiaohong Ji, Zhen Wang, Hongshuai Wang, Hengxing Cai, Lirong Wu, Shuqi Lu, FengTianCi Yang, Yaping Wen, Yingfeng Zhang, Haibo Ma, Zhifeng Gao, Zheng Cheng
+_npj Computational Materials, 2025 (SCI Q1, 5-year Journal Impact Factor: 13.0 (2024))_
+[📄 Paper](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/67ffb41a50018ac7c5a45d5b/original/virtual-characterization-via-knowledge-enhanced-representation-learning-from-organic-conjugated-molecules-to-devices.pdf) | [💻 Code](https://github.com/545487677/OCNet) -->
