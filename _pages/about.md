@@ -14,7 +14,7 @@ redirect_from:
 
 <p>If you are interested in AI4S, LLM reasoning, or intelligent agents, feel free to reach out — I am always happy to discuss and collaborate!</p>
 
-  <p>📧 Email: <a href="mailto:cody545487677@gmail.com">cody545487677@gmail.com</a> (Preferred); 
+<p>📧 Email: <a href="mailto:cody545487677@gmail.com">cody545487677@gmail.com</a> (Preferred); 
 <a href="mailto:guojianz@alumni.cmu.edu">guojianz@alumni.cmu.edu</a>; 
 <a href="mailto:zhaogj@dp.tech">zhaogj@dp.tech</a></p>
 
@@ -44,6 +44,8 @@ redirect_from:
 
     <li><b><font color="#FF0000">[2022.08]</font></b> <strong>One paper is</strong> accepted by <b><em>TMLR</em></b>.</li>
 
+    <li><b><font color="#FF0000">[2022.05]</font></b> <strong>One paper is</strong> accepted by <b><em>ACL</em></b>.</li>
+
     <li><b><font color="#FF0000">[2022.02]</font></b> <strong>One paper is</strong> accepted by <b><em>TNNLS</em></b>.</li>
 
   </ul>
@@ -51,6 +53,23 @@ redirect_from:
 
 <h2 id="Selected Publications">📝 Selected Publications</h2>
 _<sup>\*</sup> denotes equal contribution_
+
+<tr>
+  <td width="306">
+    <img src="./images/papers/molreasoner.png" width="285px" style="box-shadow: 4px 4px 8px #888">
+  </td>				
+  <td>
+    <p><b>🎉 MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs</b></p>
+    <p><b>Guojiang Zhao</b><sup>*</sup>, Sihang Li<sup>*</sup>, Zixiang Lu, Zheng Cheng, Haitao Lin, Lirong Wu, Hanchen Xia, Hengxing Cai, Wentao Guo, Hongshuai Wang, Mingjun Xu, Siyu Zhu, Guolin Ke, Linfeng Zhang, Zhifeng Gao</p>
+    <em>arXiv preprint: 2508.02066, 2025</em>
+    <p>[<a href="https://arxiv.org/pdf/2508.02066" target="_blank">paper</a>] 
+       [<a href="https://github.com/545487677/MolReasoner" target="_blank">code</a>] 
+    </p>
+  </td>
+</tr>
+<tr>&nbsp</tr>
+<tr>&nbsp</tr>
+<tr>&nbsp</tr>
 
 **MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs**  
 **Guojiang Zhao**<sup>\*</sup>, Sihang Li<sup>\*</sup>, Zixiang Lu, Zheng Cheng, Haitao Lin, Lirong Wu, Hanchen Xia, Hengxing Cai, Wentao Guo, Hongshuai Wang, Mingjun Xu, Siyu Zhu, Guolin Ke, Linfeng Zhang, Zhifeng Gao  
