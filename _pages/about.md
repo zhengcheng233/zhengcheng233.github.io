@@ -418,3 +418,85 @@ redirect_from:
 <ul>
   <li><b>Program Committee Member | Reviewer</b> — AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</li>
 </ul>
+
+
+
+
+<h2 id="standards">📑 Standards</h2>
+<ul>
+  <li>
+    <b>General Technical Specification for Health and Wellness Robots (康养机器人通用技术规范)</b><br>
+    First author — T/YGAZXH 4—2025, released on <b>2025.01.25</b>
+  </li>
+</ul>
+
+<h2 id="patents">🔖 Patents</h2>
+<h3>🤖 Robotics-related patents</h3>
+
+<ul>
+  <li><b>A health monitoring intelligent robot management system and method</b> (一种应用于健康监测的智能化机器人管理系统及方法)<br>
+      China Patent: <b>ZL202410898780.X</b>, authorized <b>2025.01.10</b>
+  </li>
+
+  <li><b>A health management system and method based on multi-source data acquisition and analysis</b> (基于多源数据采集分析的健康管理系统及方法)<br>
+      China & Japan Patent: <b>ZL202411580423.5</b>, authorized <b>2025.01.07</b>
+  </li>
+
+  <li><b>A multimodal human-machine collaboration interaction system and method</b> (多模态下人机协同交互系统及方法)<br>
+      China & U.S. Patent: <b>ZL202411348336.7 / 12322393</b>, authorized <b>2024.12.13</b>
+  </li>
+
+  <li><b>Unmanned sightseeing interactive robot</b> (无人驾驶观光交互机器人)<br>
+      China Patent: <b>ZL202110339122.3</b>, authorized <b>2023.04.07</b>
+  </li>
+
+  <li><b>Preschool education robot</b> (幼教机器人)<br>
+      China Patent: <b>ZL202120388786.9</b>, authorized <b>2023.05.23</b>
+  </li>
+
+  <li><b>Unmanned sightseeing interactive robot (design patent)</b> (无人驾驶观光交互机器人)<br>
+      China Patent: <b>ZL202130732575.3</b>, authorized <b>2022.08.05</b>
+  </li>
+
+  <li><b>Smart robot control GUI for display screen panels</b> (显示屏幕面板的智能机器人控制交互图形用户界面)<br>
+      China Patent: <b>2021301914491</b>, authorized <b>2021.11.05</b>
+  </li>
+
+  <li><b>A robotic arm motion control device</b> (一种机器人手臂动作控制装置)<br>
+      China Patent: <b>ZL202020755905.0</b>, authorized <b>2021.01.01</b>
+  </li>
+
+  <li><b>Robot (JZR360260)</b><br>
+      China Patent: <b>ZL202030213430.8</b>, authorized <b>2020.11.06</b>
+  </li>
+</ul>
+
+<h3>🔬 AI4S-related patents</h3>
+<ul>
+  <li><b>A method and device for processing charge carrier mobility prediction models</b><br>
+      China Patent: <b>ZL202411310786.7</b>, filed 2024
+  </li>
+
+  <li><b>A system for molecular generation tasks based on autoregressive models</b><br>
+      China Patent: <b>ZL202411319712.X</b>, filed 2024
+  </li>
+
+  <li><b>A molecular conformation generator with conditional constraints</b><br>
+      China Patent: <b>ZL202411310784.8</b>, filed 2024
+  </li>
+
+  <li><b>A method and device for generating multi-ring conjugated system molecules</b><br>
+      China Patent: <b>ZL202411345540.3</b>, filed 2024
+  </li>
+
+  <li><b>Stacked ensemble model for molecular property prediction</b><br>
+      PCT Patent: <b>PCT/CN2023/130061</b>
+  </li>
+</ul>
+
+
+<h2 id="awards">🏆 Awards</h2>
+<ul>
+  <li><b>European Good Design Award – Bronze Award</b>, 2022</li>
+  <li><b>National Scholarship (国家奖学金)</b>, 2019.10</li>
+</ul>
