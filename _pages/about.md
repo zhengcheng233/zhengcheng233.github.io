@@ -56,7 +56,6 @@ redirect_from:
 <h2 id="Selected Publications">📝 Selected Publications</h2>
 _<sup>\*</sup> denotes equal contribution_ -->
 <h2 id="Selected Publications">📝 Selected Publications</h2>
-_<sup>*</sup> denotes equal contribution_
 
 <table class="imgtable" style="border:0; border-collapse:collapse; width:100%;">
   <tr>
@@ -67,7 +66,7 @@ _<sup>*</sup> denotes equal contribution_
         alt="MolReasoner"
         style="
           display:block;
-          width:320px;           /* 调整这里可放大/缩小，例如 320/340/360 */
+          width:280px;           /* 调整这里可放大/缩小，例如 320/340/360 */
           max-width:100%;        /* 小屏自动适配 */
           height:auto; 
           border:1.2px solid #464646;
