@@ -214,12 +214,12 @@ redirect_from:
     <p><i><b>ICLR, 2025</b></i></p>
 
     <p>
-      [<a href="https://openreview.net/forum?id=IxmWIkcKs5" target="_blank" style="color:#2a7ce0;">PDF</a>]
+      [<a href="https://openreview.net/forum?id=IxmWIkcKs5" target="_blank" style="color:#2a7ce0;">PDF</a>] 
       [<a href="https://github.com/LirongWu/Uni-Anti" target="_blank" style="color:#2a7ce0;">Code</a>]
     </p>
-
   </div>
 </div>
+
 
 <!-- Closed-Loop AI Enables Organic Continuous-Wave Laser -->
 <div class="pub-entry">
@@ -267,7 +267,6 @@ redirect_from:
     <p>
       [<a href="https://aclanthology.org/2025.trl-1.4/" target="_blank" style="color:#2a7ce0;">PDF</a>]
     </p>
-
   </div>
 </div>
 
@@ -288,19 +287,15 @@ redirect_from:
     <p><i><b>TNNLS, 2024</b> (SCI Q1, Impact Factor: 8.9, CCF-B)</i></p>
 
     <p>
-      [<a href="https://ieeexplore.ieee.org/abstract/document/10699355" target="_blank" style="color:#2a7ce0;">PDF</a>]
+      [<a href="https://ieeexplore.ieee.org/abstract/document/10699355" target="_blank" style="color:#2a7ce0;">PDF</a>] 
       [<a href="https://github.com/LirongWu/GSSC" target="_blank" style="color:#2a7ce0;">Code</a>]
     </p>
-
   </div>
 </div>
 
 <!-- TGS - TKDE 2024 -->
 <div class="pub-entry">
-  <img src="./images/papers/TKDE_2024_TGS_cover.PNG" 
-       alt="A Teacher-Free Graph Knowledge Distillation Framework with Dual Self-Distillation"
-       style="height:300px;"  <!-- 🔹这里调节高度，比如220/240/260 -->
-  >
+  <img src="./images/papers/TKDE_2024_TGS_cover.PNG" alt="A Teacher-Free Graph Knowledge Distillation Framework with Dual Self-Distillation">
   <div class="pub-text">
     <p><b>
       <a href="https://ieeexplore.ieee.org/abstract/document/10476767" target="_blank" style="color:#2a7ce0; text-decoration:none;">
@@ -315,9 +310,30 @@ redirect_from:
     <p><i><b>TKDE, 2024</b> (SCI Q1, Impact Factor: 10.4, CCF-A)</i></p>
 
     <p>
-      [<a href="https://ieeexplore.ieee.org/abstract/document/10476767" target="_blank" style="color:#2a7ce0;">PDF</a>]
+      [<a href="https://ieeexplore.ieee.org/abstract/document/10476767" target="_blank" style="color:#2a7ce0;">PDF</a>] 
       [<a href="https://github.com/LirongWu/TGS" target="_blank" style="color:#2a7ce0;">Code</a>]
     </p>
+  </div>
+</div>
 
+<!-- Uni-QSAR - arXiv 2023 -->
+<div class="pub-entry">
+  <img src="./images/papers/uniqsar.png" alt="Uni-QSAR: An Auto-ML Tool for Molecular Property Prediction">
+  <div class="pub-text">
+    <p><b>
+      <a href="https://arxiv.org/pdf/2304.12239" target="_blank" style="color:#2a7ce0; text-decoration:none;">
+        Uni-QSAR: An Auto-ML Tool for Molecular Property Prediction
+      </a>
+    </b></p>
+
+    <p><i>
+      Zhifeng Gao, Xiaohong Ji, <b>Guojiang Zhao</b>, Hongshuai Wang, Hang Zheng, Guolin Ke, Linfeng Zhang
+    </i></p>
+
+    <p><i><b>arXiv preprint: 2304.12239, 2023</b></i></p>
+
+    <p>
+      [<a href="https://arxiv.org/pdf/2304.12239" target="_blank" style="color:#2a7ce0;">PDF</a>]
+    </p>
   </div>
 </div>
