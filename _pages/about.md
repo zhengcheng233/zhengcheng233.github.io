@@ -51,10 +51,107 @@ redirect_from:
   </ul>
 </div>
 
-<!--
+
+
+<style>
+.pub-entry {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 24px;
+}
+.pub-entry img {
+  width: 280px;
+  height: auto;
+  border: 1.2px solid #464646;
+  padding: 5px;
+  border-radius: 14px;
+  box-shadow: 1.2px 1.2px #bbbbbb;
+  margin-right: 16px;
+}
+.pub-entry .pub-text {
+  font-family: Georgia, serif;
+  font-size: 0.95rem;
+}
+.pub-entry .pub-text p {
+  margin: 4px 0;
+}
+</style>
 
 <h2 id="Selected Publications">📝 Selected Publications</h2>
-_<sup>\*</sup> denotes equal contribution_ -->
+_<sup>*</sup> denotes equal contribution_
+
+<!-- MolReasoner -->
+<div class="pub-entry">
+  <img src="./images/papers/molreasoner.png" alt="MolReasoner">
+  <div class="pub-text">
+    <p><b><a href="https://arxiv.org/pdf/2508.02066" target="_blank" style="color:#2a7ce0; text-decoration:none;">
+      MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs
+    </a></b></p>
+
+    <p><i><b>Guojiang Zhao</b><sup>*</sup>, Sihang Li<sup>*</sup>, Zixiang Lu, Zheng Cheng, Haitao Lin,
+       Lirong Wu, Hanchen Xia, Hengxing Cai, Wentao Guo, Hongshuai Wang, Mingjun Xu,
+       Siyu Zhu, Guolin Ke, Linfeng Zhang, Zhifeng Gao</i></p>
+
+    <p><i><b>arXiv preprint: 2508.02066, 2025</b></i></p>
+
+    <p>
+      [<a href="https://arxiv.org/pdf/2508.02066" target="_blank" style="color:#2a7ce0;">PDF</a>]
+      [<a href="https://github.com/545487677/MolReasoner" target="_blank" style="color:#2a7ce0;">Code</a>]
+    </p>
+  </div>
+</div>
+
+<!-- OCNet -->
+<div class="pub-entry">
+  <img src="./images/papers/OCNet.png" alt="OCNet">
+  <div class="pub-text">
+    <p><b><a href="https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/67ffb41a50018ac7c5a45d5b/original/virtual-characterization-via-knowledge-enhanced-representation-learning-from-organic-conjugated-molecules-to-devices.pdf" target="_blank" style="color:#2a7ce0; text-decoration:none;">
+      Virtual Characterization via Knowledge-Enhanced Representation Learning: from Organic Conjugated Molecules to Devices
+    </a></b></p>
+
+    <p><i><b>Guojiang Zhao</b><sup>*</sup>, Qi Ou<sup>*</sup>, Zifeng Zhao<sup>*</sup>, Shangqian Chen, Haitao Lin,
+       Xiaohong Ji, Zhen Wang, Hongshuai Wang, Hengxing Cai, Lirong Wu, Shuqi Lu, FengTianCi Yang,
+       Yaping Wen, Yingfeng Zhang, Haibo Ma, Zhifeng Gao, Zheng Cheng</i></p>
+
+    <p><i><b>npj Computational Materials, 2025</b> (SCI Q1, 5-year Journal Impact Factor: 13.0 (2024))</i></p>
+
+    <p>
+      [<a href="https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/67ffb41a50018ac7c5a45d5b/original/virtual-characterization-via-knowledge-enhanced-representation-learning-from-organic-conjugated-molecules-to-devices.pdf" target="_blank" style="color:#2a7ce0;">PDF</a>]
+      [<a href="https://github.com/545487677/OCNet" target="_blank" style="color:#2a7ce0;">Code</a>]
+    </p>
+  </div>
+</div>
+
+
+
+
+
+
+
+<!-- 
+<style>
+.pub-entry {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 24px;
+}
+.pub-entry img {
+  width: 280px;
+  height: auto;
+  border: 1.2px solid #464646;
+  padding: 5px;
+  border-radius: 14px;
+  box-shadow: 1.2px 1.2px #bbbbbb;
+  margin-right: 16px;
+}
+.pub-entry .pub-text {
+  font-family: Georgia, serif;
+  font-size: 0.95rem;
+}
+.pub-entry .pub-text p {
+  margin: 4px 0;
+}
+</style>
 
 <h2 id="Selected Publications">📝 Selected Publications</h2>
 
@@ -104,13 +201,8 @@ _<sup>\*</sup> denotes equal contribution_ -->
   </tr>
 </table>
 
-<!--
-**MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs**
-**Guojiang Zhao**<sup>\*</sup>, Sihang Li<sup>\*</sup>, Zixiang Lu, Zheng Cheng, Haitao Lin, Lirong Wu, Hanchen Xia, Hengxing Cai, Wentao Guo, Hongshuai Wang, Mingjun Xu, Siyu Zhu, Guolin Ke, Linfeng Zhang, Zhifeng Gao
-_arXiv preprint: 2508.02066, 2025_
-[📄 Paper](https://arxiv.org/pdf/2508.02066) | [💻 Code](https://github.com/545487677/MolReasoner)
-<!--
+
 **Virtual Characterization via Knowledge-Enhanced Representation Learning: from Organic Conjugated Molecules to Devices**
 **Guojiang Zhao**<sup>\*</sup>, Qi Ou<sup>\*</sup>, Zifeng Zhao<sup>\*</sup>, Shangqian Chen, Haitao Lin, Xiaohong Ji, Zhen Wang, Hongshuai Wang, Hengxing Cai, Lirong Wu, Shuqi Lu, FengTianCi Yang, Yaping Wen, Yingfeng Zhang, Haibo Ma, Zhifeng Gao, Zheng Cheng
 _npj Computational Materials, 2025 (SCI Q1, 5-year Journal Impact Factor: 13.0 (2024))_
-[📄 Paper](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/67ffb41a50018ac7c5a45d5b/original/virtual-characterization-via-knowledge-enhanced-representation-learning-from-organic-conjugated-molecules-to-devices.pdf) | [💻 Code](https://github.com/545487677/OCNet) -->
+[📄 Paper](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/67ffb41a50018ac7c5a45d5b/original/virtual-characterization-via-knowledge-enhanced-representation-learning-from-organic-conjugated-molecules-to-devices.pdf) | [💻 Code](https://github.com/545487677/OCNet)  -->
