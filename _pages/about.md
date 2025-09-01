@@ -269,3 +269,49 @@ redirect_from:
     </p>
   </div>
 </div>
+
+<!-- GSSC - TNNLS 2024 -->
+<div class="pub-entry">
+  <img src="./images/papers/TNNLS_2024_GSSC_cover.PNG" alt="Learning to Model Graph Structural Information on MLPs via Graph Structure Self-Contrasting">
+  <div class="pub-text">
+    <p><b>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10699355" target="_blank" style="color:#2a7ce0; text-decoration:none;">
+        Learning to Model Graph Structural Information on MLPs via Graph Structure Self-Contrasting
+      </a>
+    </b></p>
+
+    <p><i>
+      Lirong Wu, Haitao Lin, <b>Guojiang Zhao</b>, Cheng Tan, Stan Z. Li
+    </i></p>
+
+    <p><i><b>TNNLS, 2024</b> (SCI Q1, Impact Factor: 8.9, CCF-B)</i></p>
+
+    <p>
+      [<a href="https://ieeexplore.ieee.org/abstract/document/10699355" target="_blank" style="color:#2a7ce0;">PDF</a>] 
+      [<a href="https://github.com/LirongWu/GSSC" target="_blank" style="color:#2a7ce0;">Code</a>]
+    </p>
+  </div>
+</div>
+
+<!-- TGS - TKDE 2024 -->
+<div class="pub-entry">
+  <img src="./images/papers/TKDE_2024_TGS_cover.PNG" alt="A Teacher-Free Graph Knowledge Distillation Framework with Dual Self-Distillation">
+  <div class="pub-text">
+    <p><b>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10476767" target="_blank" style="color:#2a7ce0; text-decoration:none;">
+        A Teacher-Free Graph Knowledge Distillation Framework with Dual Self-Distillation
+      </a>
+    </b></p>
+
+    <p><i>
+      Lirong Wu, Haitao Lin, Zhangyang Gao, <b>Guojiang Zhao</b>, Stan Z. Li
+    </i></p>
+
+    <p><i><b>TKDE, 2024</b> (SCI Q1, Impact Factor: 10.4, CCF-A)</i></p>
+
+    <p>
+      [<a href="https://ieeexplore.ieee.org/abstract/document/10476767" target="_blank" style="color:#2a7ce0;">PDF</a>] 
+      [<a href="https://github.com/LirongWu/TGS" target="_blank" style="color:#2a7ce0;">Code</a>]
+    </p>
+  </div>
+</div>
