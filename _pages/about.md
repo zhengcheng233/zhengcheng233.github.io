@@ -18,24 +18,30 @@ Hello! I am Guojiang Zhao (you can also call me Cody), currently working at DP T
 
 I received my M.S. in Information Systems Management from Carnegie Mellon University in 2023, and my B.S. in Information and Computing Science (Mathematics track) from Xi’an University of Posts and Telecommunications (XUPT), where I ranked first in my major. In addition, I have had visiting research experiences at the National University of Singapore (NUS) and the [**Stan Z. Li Lab**](https://en.westlake.edu.cn/faculty/stan-zq-li.html) at Westlake University. Previously, I also gained industry research experience through internships at Huawei, MetaApp, and WeChat (Tencent).
 
-If you are interested in AI4S, LLM reasoning, or intelligent agents, feel free to reach out — I am always happy to discuss and collaborate! 
+If you are interested in AI4S, LLM reasoning, or intelligent agents, feel free to reach out — I am always happy to discuss and collaborate!
 Email: cody545487677@gmail.com (Preferred), guojianz@alumni.cmu.edu, zhaogj@dp.tech
 
-# News 🔥
+<A NAME="News"><h2>News 🔥</h2></A>
 
+<div style="height:300px; overflow-y:auto;">
+  <ul>
+    <li><b><font color="#FF0000">[2025.08]</font></b> <strong>Virtual Characterization via Knowledge-Enhanced Representation Learning: from Organic Conjugated Molecules to Devices</strong> accepted by <b><em>npj Computational Materials</em></b>.</li>
 
-<div style="height:150px; overflow:hidden; position:relative;">
-  <div style="display:block; position:absolute; width:100%; animation: scrollNews 12s linear infinite;">
-    <p>2025.08 &nbsp;&nbsp; <strong>Virtual Characterization via Knowledge-Enhanced Representation Learning: from Organic Conjugated Molecules to Devices</strong> 被 <em>npj Computational Materials</em> 接收</p>
-    <p>2025.06 &nbsp;&nbsp; <strong>Data-Driven Parametrization of All-atom Force Fields for Organic Semiconductors</strong> 被 <em>Journal of Chemical Information and Modeling</em> 接收</p>
-    <p>2025.06.05 &nbsp;&nbsp; <strong>$R^3$: "This is My SQL, Are You With Me?"</strong> accepted at <em>TRL@ACL 2025 (Oral)</em></p>
-    <p>2025.02 &nbsp;&nbsp; <strong>CBGBench</strong> (Spotlight) and <strong>A Simple yet Effective ∆∆G Predictor</strong> have been accepted by <em>ICLR 2025</em></p>
-  </div>
+    <li><b><font color="#FF0000">[2025.08]</font></b> <strong>MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs</strong> released — a two-stage framework (Mol-SFT + Mol-RL) that shifts LLMs from memorization to interpretable molecular reasoning for chemistry.</li>
+
+    <li><b><font color="#FF0000">[2025.06]</font></b> <strong>Data-Driven Parametrization of All-atom Force Fields for Organic Semiconductors</strong> accepted by <b><em>Journal of Chemical Information and Modeling</em></b>.</li>
+
+    <li><b><font color="#FF0000">[2025.06]</font></b> <strong>$R^3$: "This is My SQL, Are You With Me?"</strong> accepted at <b><em>TRL@ACL 2025 (Oral)</em></b>.</li>
+
+    <li><b><font color="#FF0000">[2025.02]</font></b> <strong>CBGBench</strong> (Spotlight) and <strong>A Simple yet Effective ∆∆G Predictor</strong> accepted by <b><em>ICLR 2025</em></b>.</li>
+
+    <li><b> <font color="#FF0000">[2024.09]</font> </b> One paper on, <i><font color="#2a7ce0">graph contrastive learning</font></i>, has been accepted by <b>TNNLS</b>. </li>
+
+    <li><b> <font color="#FF0000">[2024.03]</font> </b> One paper on, <i><font color="#2a7ce0">graph knowledge distillation</font></i>, has been accepted by <b>TKDE</b>. </li>
+
+    <li><b> <font color="#FF0000">[2022.08]</font> </b> One paper on, <i><font color="#2a7ce0">Temporal Point Process</font></i>, has been accepted by <b>TMLR</b>. </li>
+
+    <li><b> <font color="#FF0000">[2022.02]</font> </b> One paper on, <i><font color="#2a7ce0">deep clustering</font></i>, has been accepted by <b>TNNLS</b>. </li>
+
+  </ul>
 </div>
-
-<style>
-@keyframes scrollNews {
-  0%   { top: 100%; }
-  100% { top: -100%; }
-}
-</style>
