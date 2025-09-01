@@ -405,3 +405,10 @@ redirect_from:
     </p>
   </div>
 </div>
+
+
+<h2 id="services">🤝 Academic Services</h2>
+
+<ul>
+  <li><b>Program Committee Member | Reviewer</b> — AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</li>
+</ul>
