@@ -42,6 +42,19 @@ If you are interested in AI4S, LLM reasoning, or intelligent agents, feel free t
   </ul>
 </div>
 
-# 📝 Selected Publications
-
+<h2 id="Selected Publications">📝 Selected Publications</h2>
 _<sup>\*</sup> denotes equal contribution_
+
+---
+
+**MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs**  
+**Guojiang Zhao**<sup>\*</sup>, Sihang Li<sup>\*</sup>, Zixiang Lu, Zheng Cheng, Haitao Lin, Lirong Wu, Hanchen Xia, Hengxing Cai, Wentao Guo, Hongshuai Wang, Mingjun Xu, Siyu Zhu, Guolin Ke, Linfeng Zhang, Zhifeng Gao  
+_arXiv preprint: 2508.02066, 2025_  
+[📄 Paper](https://arxiv.org/pdf/2508.02066) | [💻 Code](https://github.com/545487677/MolReasoner)
+
+---
+
+**Virtual Characterization via Knowledge-Enhanced Representation Learning: from Organic Conjugated Molecules to Devices**  
+**Guojiang Zhao**<sup>\*</sup>, **Qi Ou**<sup>\*</sup>, **Zifeng Zhao**<sup>\*</sup>, Shangqian Chen, Haitao Lin, Xiaohong Ji, Zhen Wang, Hongshuai Wang, Hengxing Cai, Lirong Wu, Shuqi Lu, FengTianCi Yang, Yaping Wen, Yingfeng Zhang, Haibo Ma, Zhifeng Gao, Zheng Cheng  
+_npj Computational Materials, 2025 (SCI Q1, Impact Factor: 11.9 (2024))_  
+[📄 Paper](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/67ffb41a50018ac7c5a45d5b/original/virtual-characterization-via-knowledge-enhanced-representation-learning-from-organic-conjugated-molecules-to-devices.pdf) | [💻 Code](https://github.com/545487677/OCNet)
