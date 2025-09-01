@@ -19,7 +19,8 @@ Hello! I am Guojiang Zhao (you can also call me Cody), currently working at DP T
 I received my M.S. in Information Systems Management from Carnegie Mellon University in 2023, and my B.S. in Information and Computing Science (Mathematics track) from Xi’an University of Posts and Telecommunications (XUPT), where I ranked first in my major. In addition, I have had visiting research experiences at the National University of Singapore (NUS) and the [**Stan Z. Li Lab**](https://en.westlake.edu.cn/faculty/stan-zq-li.html) at Westlake University. Previously, I also gained industry research experience through internships at Huawei, MetaApp, and WeChat (Tencent).
 
 If you are interested in AI4S, LLM reasoning, or intelligent agents, feel free to reach out — I am always happy to discuss and collaborate!
-Email: cody545487677@gmail.com (Preferred), guojianz@alumni.cmu.edu, zhaogj@dp.tech
+
+Email: cody545487677@gmail.com (Preferred); guojianz@alumni.cmu.edu; zhaogj@dp.tech
 
 <h2 id="News">News 🔥</h2>
 <div style="height:300px; overflow-y:auto;">
@@ -27,9 +28,9 @@ Email: cody545487677@gmail.com (Preferred), guojianz@alumni.cmu.edu, zhaogj@dp.t
     <li><b><font color="#FF0000">[2025.08]</font></b> <strong>One paper is </strong> accepted by <b><em>npj Computational Materials</em></b>.</li>
 
     <li>
-      <b><font color="#FF0000">[2025.08]</font></b> Excited to release: 
-      <strong>MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs</strong> — 
-      a two-stage framework (Mol-SFT + Mol-RL) that shifts LLMs from memorization to interpretable molecular reasoning for chemistry. 
+      <b><font color="#FF0000">[2025.08]</font></b> Excited to release:
+      <strong>MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs</strong> —
+      a two-stage framework (Mol-SFT + Mol-RL) that shifts LLMs from memorization to interpretable molecular reasoning for chemistry.
       Enjoy the fun of <a href="https://github.com/545487677/MolReasoner" target="_blank" style="color:#2a7ce0;">MolReasoner</a>!
     </li>
 
@@ -39,13 +40,13 @@ Email: cody545487677@gmail.com (Preferred), guojianz@alumni.cmu.edu, zhaogj@dp.t
 
     <li><b><font color="#FF0000">[2025.02]</font></b> <strong>Two papers are</strong> accepted by <b><em>ICLR 2025 (1 Spotlight)</em></b>.</li>
 
-    <li><b> <font color="#FF0000">[2024.09]</font> </b> One paper on, <i><font color="#2a7ce0">graph contrastive learning</font></i>, has been accepted by <b>TNNLS</b>. </li>
+    <li><b><font color="#FF0000">[2024.09]</font></b> <strong>One paper is</strong> accepted by <b><em>TNNLS</em></b>.</li>
 
-    <li><b> <font color="#FF0000">[2024.03]</font> </b> One paper on, <i><font color="#2a7ce0">graph knowledge distillation</font></i>, has been accepted by <b>TKDE</b>. </li>
+    <li><b><font color="#FF0000">[2024.03]</font></b> <strong>One paper is</strong> accepted by <b><em>TKDE</em></b>.</li>
 
-    <li><b> <font color="#FF0000">[2022.08]</font> </b> One paper on, <i><font color="#2a7ce0">Temporal Point Process</font></i>, has been accepted by <b>TMLR</b>. </li>
+    <li><b><font color="#FF0000">[2022.08]</font></b> <strong>One paper is</strong> accepted by <b><em>TMLR</em></b>.</li>
 
-    <li><b> <font color="#FF0000">[2022.02]</font> </b> One paper on, <i><font color="#2a7ce0">deep clustering</font></i>, has been accepted by <b>TNNLS</b>. </li>
+    <li><b><font color="#FF0000">[2022.02]</font></b> <strong>One paper is</strong> accepted by <b><em>TNNLS</em></b>.</li>
 
   </ul>
 </div>
