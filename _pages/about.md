@@ -340,7 +340,7 @@ redirect_from:
 
 <!-- DCV - TNNLS 2022 -->
 <div class="pub-entry">
-  <img src="./images/papers/TNNLS_2022_DCV_cover.PNG" alt="Deep Clustering and Visualization for End-to-End High-Dimensional Data Analysis" style="height:220px;">
+  <img src="./images/papers/TNNLS_2022_DCV_cover.PNG" alt="Deep Clustering and Visualization for End-to-End High-Dimensional Data Analysis" >
   <div class="pub-text">
     <p><b>
       <a href="https://ieeexplore.ieee.org/abstract/document/9732198/" target="_blank" style="color:#2a7ce0; text-decoration:none;">
@@ -363,7 +363,7 @@ redirect_from:
 
 <!-- GNTPP - TMLR 2022 -->
 <div class="pub-entry">
-  <img src="./images/papers/TMLR.png" alt="Exploring Generative Neural Temporal Point Process" style="height:220px;">
+  <img src="./images/papers/TMLR.png" alt="Exploring Generative Neural Temporal Point Process" >
   <div class="pub-text">
     <p><b>
       <a href="https://openreview.net/forum?id=NPfS5N3jbL" target="_blank" style="color:#2a7ce0; text-decoration:none;">
@@ -386,7 +386,7 @@ redirect_from:
 
 <!-- ACL 2022 -->
 <div class="pub-entry">
-  <img src="./images/papers/ACL.png" alt="Using Context-to-Vector with Graph Retrofitting to Improve Word Embeddings" style="height:220px;">
+  <img src="./images/papers/ACL.png" alt="Using Context-to-Vector with Graph Retrofitting to Improve Word Embeddings" >
   <div class="pub-text">
     <p><b>
       <a href="https://arxiv.org/pdf/2210.16848" target="_blank" style="color:#2a7ce0; text-decoration:none;">
