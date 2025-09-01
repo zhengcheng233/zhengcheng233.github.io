@@ -55,21 +55,23 @@ redirect_from:
 _<sup>\*</sup> denotes equal contribution_
 
 <tr>
+  <!-- 左边图片 -->
   <td width="306">
     <img src="./images/papers/molreasoner.png" width="285px" style="box-shadow: 4px 4px 8px #888">
-  </td>				
+  </td>
+
+  <!-- 右边文字 -->
   <td>
     <p><b>🎉 MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs</b></p>
     <p><b>Guojiang Zhao</b><sup>*</sup>, Sihang Li<sup>*</sup>, Zixiang Lu, Zheng Cheng, Haitao Lin, Lirong Wu, Hanchen Xia, Hengxing Cai, Wentao Guo, Hongshuai Wang, Mingjun Xu, Siyu Zhu, Guolin Ke, Linfeng Zhang, Zhifeng Gao</p>
     <em>arXiv preprint: 2508.02066, 2025</em>
-    <p>[<a href="https://arxiv.org/pdf/2508.02066" target="_blank">paper</a>] 
-       [<a href="https://github.com/545487677/MolReasoner" target="_blank">code</a>] 
+    <p>
+      [<a href="https://arxiv.org/pdf/2508.02066" target="_blank">paper</a>] 
+      [<a href="https://github.com/545487677/MolReasoner" target="_blank">code</a>] 
     </p>
   </td>
 </tr>
-<tr>&nbsp</tr>
-<tr>&nbsp</tr>
-<tr>&nbsp</tr>
+<tr><td colspan="2">&nbsp;</td></tr>
 
 **MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs**  
 **Guojiang Zhao**<sup>\*</sup>, Sihang Li<sup>\*</sup>, Zixiang Lu, Zheng Cheng, Haitao Lin, Lirong Wu, Hanchen Xia, Hengxing Cai, Wentao Guo, Hongshuai Wang, Mingjun Xu, Siyu Zhu, Guolin Ke, Linfeng Zhang, Zhifeng Gao  
