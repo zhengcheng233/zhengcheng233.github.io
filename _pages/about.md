@@ -132,16 +132,42 @@ redirect_from:
     </b></p>
 
     <p><i>
-      <b>Guojiang Zhao</b><sup>*</sup>, Taiping Hu, Hongshuai Wang, Lirong Wu, Shuqi Lu, 
+      <b>Guojiang Zhao</b><sup>*</sup>, Taiping Hu, Hongshuai Wang, Lirong Wu, Shuqi Lu,
       FengTianCi Yang, Shangqian Chen, Zhifeng Gao, Xinyan Wang, Zheng Cheng
     </i></p>
 
-    <p><i><b>Journal of Chemical Information and Modeling (JCIM), 2025</b> 
+    <p><i><b>Journal of Chemical Information and Modeling (JCIM), 2025</b>
       (SCI Q1, 2-year Impact Factor 2024: 5.3)</i></p>
 
     <p>
       [<a href="https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5c00291" target="_blank" style="color:#2a7ce0;">PDF</a>]
     </p>
+
+  </div>
+</div>
+
+<!-- O2-GEN -->
+<div class="pub-entry">
+  <img src="./images/papers/o2gen.png" alt="FAST AND FLEXIBLE 3D MOLECULE DESIGN FRAMEWORK FOR NOVEL ORGANIC OPTOELECTRONIC MATERIALS">
+  <div class="pub-text">
+    <p><b>
+      <a href="https://chemrxiv.org/engage/chemrxiv/article-details/68a4c2bb23be8e43d6ee37d5" target="_blank" style="color:#2a7ce0; text-decoration:none;">
+        FAST AND FLEXIBLE 3D MOLECULE DESIGN FRAMEWORK FOR NOVEL ORGANIC OPTOELECTRONIC MATERIALS
+      </a>
+    </b></p>
+
+    <p><i>
+      <b>Guojiang Zhao</b><sup>*</sup>, Zheng Cheng<sup>*</sup>, Kele Xu, Tianjiao Wan, Ming Feng, Shuqi Lu,
+      Hongshuai Wang, Zijian Gao, Qi Ou, Liang Hu, Dawei Feng, Zifeng Zhao, Zhifeng Gao
+    </i></p>
+
+    <p><i><b>ChemRxiv, 2025</b></i></p>
+
+    <p>
+      [<a href="https://chemrxiv.org/engage/chemrxiv/article-details/68a4c2bb23be8e43d6ee37d5" target="_blank" style="color:#2a7ce0;">PDF</a>]
+      [<a href="https://zenodo.org/records/14915202" target="_blank" style="color:#2a7ce0;">Code</a>]
+    </p>
+
   </div>
 </div>
 
@@ -156,7 +182,7 @@ redirect_from:
     </b></p>
 
     <p><i>
-      Haitao Lin<sup>*</sup>, <b>Guojiang Zhao</b><sup>*</sup>, Odin Zhang, Yufei Huang, 
+      Haitao Lin<sup>*</sup>, <b>Guojiang Zhao</b><sup>*</sup>, Odin Zhang, Yufei Huang,
       Lirong Wu, Zicheng Liu, Siyuan Li, Cheng Tan, Zhifeng Gao, Stan Z. Li
     </i></p>
 
@@ -164,9 +190,10 @@ redirect_from:
 
 
     <p>
-      [<a href="https://openreview.net/forum?id=mOpNrrV2zH" target="_blank" style="color:#2a7ce0;">PDF</a>] 
+      [<a href="https://openreview.net/forum?id=mOpNrrV2zH" target="_blank" style="color:#2a7ce0;">PDF</a>]
       [<a href="https://github.com/EDAPINENUT/CBGBench" target="_blank" style="color:#2a7ce0;">Code</a>]
     </p>
+
   </div>
 </div>
 
@@ -181,17 +208,18 @@ redirect_from:
     </b></p>
 
     <p><i>
-      Yun-Tao Ding<sup>*</sup>, <b>Guojiang Zhao</b><sup>*</sup>, Meng-Han Feng, Pei-Wei Si, Jin-Lin Qing, 
-      Hui-Qin Zhou, Yan-Ting Zhang, Xiao Chen, Wenjie Zhang, Zhangyue Yin, Wen-Jing Sun, 
-      Xue Jia, Ya-Ting Wang, Bing Sun, Yong Huo, Yamin Zhang, Guolin Ke, Linfeng Zhang, 
+      Yun-Tao Ding<sup>*</sup>, <b>Guojiang Zhao</b><sup>*</sup>, Meng-Han Feng, Pei-Wei Si, Jin-Lin Qing,
+      Hui-Qin Zhou, Yan-Ting Zhang, Xiao Chen, Wenjie Zhang, Zhangyue Yin, Wen-Jing Sun,
+      Xue Jia, Ya-Ting Wang, Bing Sun, Yong Huo, Yamin Zhang, Guolin Ke, Linfeng Zhang,
       Chun-Lin Sun, Bowen Liu, Qi Ou, Zhifeng Gao, Zhigang Shuai, Hao-Li Zhang
     </i></p>
 
     <p><i><b>preprint, 2025</b></i></p>
 
     <p>
-      [<a href="https://www.researchsquare.com/article/rs-6802885/v1" target="_blank" style="color:#2a7ce0;">PDF</a>] 
+      [<a href="https://www.researchsquare.com/article/rs-6802885/v1" target="_blank" style="color:#2a7ce0;">PDF</a>]
       [<a href="https://github.com/545487677/Laser_Geo2Seq_VAE" target="_blank" style="color:#2a7ce0;">Code</a>]
     </p>
+
   </div>
 </div>
