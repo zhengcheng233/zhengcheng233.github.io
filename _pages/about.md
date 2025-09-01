@@ -26,13 +26,18 @@ Email: cody545487677@gmail.com (Preferred), guojianz@alumni.cmu.edu, zhaogj@dp.t
   <ul>
     <li><b><font color="#FF0000">[2025.08]</font></b> <strong>One paper is </strong> accepted by <b><em>npj Computational Materials</em></b>.</li>
 
-    <li><b><font color="#FF0000">[2025.08]</font></b> <strong>Excited to release: MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs</strong> released — a two-stage framework (Mol-SFT + Mol-RL) that shifts LLMs from memorization to interpretable molecular reasoning for chemistry. Enjoy the fun of [MolReasoner](https://github.com/545487677/MolReasoner)!</li>
+    <li>
+      <b><font color="#FF0000">[2025.08]</font></b> Excited to release: 
+      <strong>MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs</strong> — 
+      a two-stage framework (Mol-SFT + Mol-RL) that shifts LLMs from memorization to interpretable molecular reasoning for chemistry. 
+      Enjoy the fun of <a href="https://github.com/545487677/MolReasoner" target="_blank" style="color:#2a7ce0;">MolReasoner</a>!
+    </li>
 
     <li><b><font color="#FF0000">[2025.06]</font></b> <strong>One paper is </strong> accepted by <b><em>Journal of Chemical Information and Modeling</em></b>.</li>
 
-    <li><b><font color="#FF0000">[2025.06]</font></b> <strong>One paper is"</strong> accepted at <b><em>TRL@ACL 2025 (Oral)</em></b>.</li>
+    <li><b><font color="#FF0000">[2025.06]</font></b> <strong>One paper is </strong> accepted at <b><em>TRL@ACL 2025 (Oral)</em></b>.</li>
 
-    <li><b><font color="#FF0000">[2025.02]</font></b> <strong>Two papers are</strong> accepted by <b><em>ICLR 2025</em></b>.</li>
+    <li><b><font color="#FF0000">[2025.02]</font></b> <strong>Two papers are</strong> accepted by <b><em>ICLR 2025 (1 Spotlight)</em></b>.</li>
 
     <li><b> <font color="#FF0000">[2024.09]</font> </b> One paper on, <i><font color="#2a7ce0">graph contrastive learning</font></i>, has been accepted by <b>TNNLS</b>. </li>
 
