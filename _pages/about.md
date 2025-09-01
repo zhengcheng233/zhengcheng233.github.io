@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-
 Hello! I am Guojiang Zhao (you can also call me Cody), currently working at DP Technology, where I am fortunate to be mentored by [**Zhifeng Gao**](https://scholar.google.com/citations?user=uBo3SJcAAAAJ&hl=en) and [**Guolin Ke**](https://scholar.google.com/citations?user=M2qJgtoAAAAJ&hl=en). My research focuses on molecular design, large language models (LLMs) reasoning, and self-evolving agents. Broadly, my interests lie in AI for Science (AI4S), particularly in molecular and materials generation, virtual characterization, and property prediction. Building on these directions, I am now exploring LLM-driven reasoning frameworks and multi-agent systems to advance intelligent scientific discovery and molecular design. I received my M.S. in Information Systems Management from Carnegie Mellon University in 2023, and my B.S. in Information and Computing Science (Mathematics track) from Xi’an University of Posts and Telecommunications (XUPT), where I ranked first in my major. In addition, I have had visiting research experiences at the National University of Singapore (NUS) and the [**Stan Z. Li Lab**](https://en.westlake.edu.cn/faculty/stan-zq-li.html) at Westlake University. Previously, I also gained industry research experience through internships at WeChat (Tencent), MetaApp, and Huawei.
 
-If you are interested in AI4S, LLM reasoning, or intelligent agents, feel free to reach out — I am always happy to discuss and collaborate! (Email: cody545487677@gmail.com (Preferred); guojianz@alumni.cmu.edu; zhaogj@dp.tech)
+If you are interested in AI4S, LLM reasoning, or intelligent agents, feel free to reach out — I am always happy to discuss and collaborate!
+
+📧 Email: cody545487677@gmail.com (Preferred); guojianz@alumni.cmu.edu; zhaogj@dp.tech
 
 <h2 id="News">News 🔥</h2>
 <div style="height:300px; overflow-y:auto;">
@@ -40,3 +41,7 @@ If you are interested in AI4S, LLM reasoning, or intelligent agents, feel free t
 
   </ul>
 </div>
+
+# 📝 Selected Publications
+
+_<sup>\*</sup> denotes equal contribution_
