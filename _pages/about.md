@@ -383,3 +383,25 @@ redirect_from:
     </p>
   </div>
 </div>
+
+<!-- ACL 2022 -->
+<div class="pub-entry">
+  <img src="./images/papers/ACL.png" alt="Using Context-to-Vector with Graph Retrofitting to Improve Word Embeddings" style="height:220px;">
+  <div class="pub-text">
+    <p><b>
+      <a href="https://arxiv.org/pdf/2210.16848" target="_blank" style="color:#2a7ce0; text-decoration:none;">
+        Using Context-to-Vector with Graph Retrofitting to Improve Word Embeddings
+      </a>
+    </b></p>
+
+    <p><i>
+      Jiangbin Zheng, Yile Wang, Ge Wang, Jun Xia, Yufei Huang, <b>Guojiang Zhao</b>, Yue Zhang, Stan Z. Li
+    </i></p>
+
+    <p><i><b>ACL, 2022</b> (CCF-A)</i></p>
+
+    <p>
+      [<a href="https://arxiv.org/pdf/2210.16848" target="_blank" style="color:#2a7ce0;">PDF</a>]
+    </p>
+  </div>
+</div>
