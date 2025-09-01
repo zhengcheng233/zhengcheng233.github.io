@@ -8,12 +8,14 @@ redirect_from:
 ---
 
 <div style="text-align: justify; text-justify: inter-word;">
-Hello! I am Guojiang Zhao (you can also call me Cody), currently working at DP Technology, where I am fortunate to be mentored by [**Zhifeng Gao**](https://scholar.google.com/citations?user=uBo3SJcAAAAJ&hl=en) and [**Guolin Ke**](https://scholar.google.com/citations?user=M2qJgtoAAAAJ&hl=en). My research focuses on molecular design, large language models (LLMs) reasoning, and self-evolving agents. Broadly, my interests lie in AI for Science (AI4S), particularly in molecular and materials generation, virtual characterization, and property prediction. Building on these directions, I am now exploring LLM-driven reasoning frameworks and multi-agent systems to advance intelligent scientific discovery and molecular design.
+Hello! I am Guojiang Zhao (you can also call me Cody), currently working at DP Technology, where I am fortunate to be mentored by <a href="https://scholar.google.com/citations?user=uBo3SJcAAAAJ&hl=en" target="_blank"><b>Zhifeng Gao</b></a>  and <a href="https://scholar.google.com/citations?user=M2qJgtoAAAAJ&hl=en" target="_blank"><b>Guolin Ke</b></a>. My research focuses on molecular design, large language models (LLMs) reasoning, and self-evolving agents. Broadly, my interests lie in AI for Science (AI4S), particularly in molecular and materials generation, virtual characterization, and property prediction. Building on these directions, I am now exploring LLM-driven reasoning frameworks and multi-agent systems to advance intelligent scientific discovery and molecular design.
 
-I received my M.S. in Information Systems Management from Carnegie Mellon University in 2023, and my B.S. in Information and Computing Science (Mathematics track) from Xi’an University of Posts and Telecommunications (XUPT), where I ranked first in my major. In addition, I have had visiting research experiences at the National University of Singapore (NUS) and the [**Stan Z. Li Lab**](https://en.westlake.edu.cn/faculty/stan-zq-li.html) at Westlake University. Previously, I also gained industry research experience through internships at WeChat (Tencent), MetaApp, and Huawei.
+I received my M.S. in Information Systems Management from Carnegie Mellon University in 2023, and my B.S. in Information and Computing Science (Mathematics track) from Xi’an University of Posts and Telecommunications (XUPT), where I ranked first in my major. In addition, I have had visiting research experiences at the National University of Singapore (NUS) and the <a href="https://en.westlake.edu.cn/faculty/stan-zq-li.html" target="_blank"><b>Stan Z. Li Lab</b></a> at Westlake University. Previously, I also gained industry research experience through internships at WeChat (Tencent), MetaApp, and Huawei.
 If you are interested in AI4S, LLM reasoning, or intelligent agents, feel free to reach out — I am always happy to discuss and collaborate!
 
-📧 Email: cody545487677@gmail.com (Preferred); guojianz@alumni.cmu.edu; zhaogj@dp.tech
+📧 Email: <a href="mailto:cody545487677@gmail.com">cody545487677@gmail.com</a> (Preferred); 
+<a href="mailto:guojianz@alumni.cmu.edu">guojianz@alumni.cmu.edu</a>; 
+<a href="mailto:zhaogj@dp.tech">zhaogj@dp.tech</a>
 
 </div>
 
