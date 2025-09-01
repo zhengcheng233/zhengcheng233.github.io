@@ -21,19 +21,18 @@ I received my M.S. in Information Systems Management from Carnegie Mellon Univer
 If you are interested in AI4S, LLM reasoning, or intelligent agents, feel free to reach out — I am always happy to discuss and collaborate!
 Email: cody545487677@gmail.com (Preferred), guojianz@alumni.cmu.edu, zhaogj@dp.tech
 
-<A NAME="News"><h2>News 🔥</h2></A>
-
+<h2 id="News">News 🔥</h2>
 <div style="height:300px; overflow-y:auto;">
   <ul>
-    <li><b><font color="#FF0000">[2025.08]</font></b> <strong>Virtual Characterization via Knowledge-Enhanced Representation Learning: from Organic Conjugated Molecules to Devices</strong> accepted by <b><em>npj Computational Materials</em></b>.</li>
+    <li><b><font color="#FF0000">[2025.08]</font></b> <strong>One paper is </strong> accepted by <b><em>npj Computational Materials</em></b>.</li>
 
-    <li><b><font color="#FF0000">[2025.08]</font></b> <strong>MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs</strong> released — a two-stage framework (Mol-SFT + Mol-RL) that shifts LLMs from memorization to interpretable molecular reasoning for chemistry.</li>
+    <li><b><font color="#FF0000">[2025.08]</font></b> <strong>Excited to release: MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs</strong> released — a two-stage framework (Mol-SFT + Mol-RL) that shifts LLMs from memorization to interpretable molecular reasoning for chemistry. Enjoy the fun of [MolReasoner](https://github.com/545487677/MolReasoner)!</li>
 
-    <li><b><font color="#FF0000">[2025.06]</font></b> <strong>Data-Driven Parametrization of All-atom Force Fields for Organic Semiconductors</strong> accepted by <b><em>Journal of Chemical Information and Modeling</em></b>.</li>
+    <li><b><font color="#FF0000">[2025.06]</font></b> <strong>One paper is </strong> accepted by <b><em>Journal of Chemical Information and Modeling</em></b>.</li>
 
-    <li><b><font color="#FF0000">[2025.06]</font></b> <strong>$R^3$: "This is My SQL, Are You With Me?"</strong> accepted at <b><em>TRL@ACL 2025 (Oral)</em></b>.</li>
+    <li><b><font color="#FF0000">[2025.06]</font></b> <strong>One paper is"</strong> accepted at <b><em>TRL@ACL 2025 (Oral)</em></b>.</li>
 
-    <li><b><font color="#FF0000">[2025.02]</font></b> <strong>CBGBench</strong> (Spotlight) and <strong>A Simple yet Effective ∆∆G Predictor</strong> accepted by <b><em>ICLR 2025</em></b>.</li>
+    <li><b><font color="#FF0000">[2025.02]</font></b> <strong>Two papers are</strong> accepted by <b><em>ICLR 2025</em></b>.</li>
 
     <li><b> <font color="#FF0000">[2024.09]</font> </b> One paper on, <i><font color="#2a7ce0">graph contrastive learning</font></i>, has been accepted by <b>TNNLS</b>. </li>
 
