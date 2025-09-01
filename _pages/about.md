@@ -360,3 +360,26 @@ redirect_from:
     </p>
   </div>
 </div>
+
+<!-- GNTPP - TMLR 2022 -->
+<div class="pub-entry">
+  <img src="./images/papers/TMLR.png" alt="Exploring Generative Neural Temporal Point Process" style="height:220px;">
+  <div class="pub-text">
+    <p><b>
+      <a href="https://openreview.net/forum?id=NPfS5N3jbL" target="_blank" style="color:#2a7ce0; text-decoration:none;">
+        Exploring Generative Neural Temporal Point Process
+      </a>
+    </b></p>
+
+    <p><i>
+      Haitao Lin, Lirong Wu, <b>Guojiang Zhao</b>, Pai Liu, Stan Z. Li
+    </i></p>
+
+    <p><i><b>TMLR, 2022</b></i></p>
+
+    <p>
+      [<a href="https://openreview.net/forum?id=NPfS5N3jbL" target="_blank" style="color:#2a7ce0;">PDF</a>] 
+      [<a href="https://github.com/EDAPINENUT/GNTPP" target="_blank" style="color:#2a7ce0;">Code</a>]
+    </p>
+  </div>
+</div>
