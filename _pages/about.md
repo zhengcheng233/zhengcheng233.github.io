@@ -144,3 +144,27 @@ redirect_from:
     </p>
   </div>
 </div>
+
+<!-- CBGBench -->
+<div class="pub-entry">
+  <img src="./images/papers/cgbbench.png" alt="CBGBench">
+  <div class="pub-text">
+    <p><b>
+      <a href="https://openreview.net/forum?id=mOpNrrV2zH" target="_blank" style="color:#2a7ce0; text-decoration:none;">
+        CBGBench: Fill in the Blank of Protein-Molecule Complex Binding Graph
+      </a>
+    </b></p>
+
+    <p><i>
+      Haitao Lin<sup>*</sup>, <b>Guojiang Zhao</b><sup>*</sup>, Odin Zhang, Yufei Huang, 
+      Lirong Wu, Zicheng Liu, Siyuan Li, Cheng Tan, Zhifeng Gao, Stan Z. Li
+    </i></p>
+
+    <p><i><b><font color="#FF0000">ICLR 2025 (Spotlight)</font></b></i></p>
+
+    <p>
+      [<a href="https://openreview.net/forum?id=mOpNrrV2zH" target="_blank" style="color:#2a7ce0;">PDF</a>] 
+      [<a href="https://github.com/EDAPINENUT/CBGBench" target="_blank" style="color:#2a7ce0;">Code</a>]
+    </p>
+  </div>
+</div>
