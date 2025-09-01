@@ -420,14 +420,12 @@ redirect_from:
 </ul>
 
 <h2 id="standards">📑 Standards</h2>
-<div style="height:80px; overflow-y:auto;">
-  <ul>
-    <li>
-      <b>General Technical Specification for Health and Wellness Robots (康养机器人通用技术规范)</b><br>
-      First author — T/YGAZXH 4—2025, released on <b>2025.01.25</b>
-    </li>
-  </ul>
-</div>
+<ul>
+  <li>
+    <b>General Technical Specification for Health and Wellness Robots (康养机器人通用技术规范)</b><br>
+    First author — T/YGAZXH 4—2025, released on <b>2025.01.25</b>
+  </li>
+</ul>
 
 <h2 id="patents">🔖 Patents</h2>
 
@@ -443,7 +441,7 @@ redirect_from:
     </li>
 
     <li><b>A multimodal human-machine collaboration interaction system and method</b> (多模态下人机协同交互系统及方法)<br>
-        China & U.S. Patent: <b>ZL202411348336.7 / US 12,322,393 B1</b>, authorized <b>2024.12.13</b>
+        China & U.S. Patent: <b>ZL202411348336.7 / 12322393</b>, authorized <b>2024.12.13</b>
     </li>
 
     <li><b>Unmanned sightseeing interactive robot</b> (无人驾驶观光交互机器人)<br>
