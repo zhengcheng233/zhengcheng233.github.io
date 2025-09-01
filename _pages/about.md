@@ -51,8 +51,6 @@ redirect_from:
   </ul>
 </div>
 
-
-
 <style>
 .pub-entry {
   display: flex;
@@ -78,7 +76,6 @@ redirect_from:
 </style>
 
 <h2 id="Selected Publications">📝 Selected Publications</h2>
-_<sup>*</sup> denotes equal contribution_
 
 <!-- MolReasoner -->
 <div class="pub-entry">
@@ -98,6 +95,7 @@ _<sup>*</sup> denotes equal contribution_
       [<a href="https://arxiv.org/pdf/2508.02066" target="_blank" style="color:#2a7ce0;">PDF</a>]
       [<a href="https://github.com/545487677/MolReasoner" target="_blank" style="color:#2a7ce0;">Code</a>]
     </p>
+
   </div>
 </div>
 
@@ -113,96 +111,36 @@ _<sup>*</sup> denotes equal contribution_
        Xiaohong Ji, Zhen Wang, Hongshuai Wang, Hengxing Cai, Lirong Wu, Shuqi Lu, FengTianCi Yang,
        Yaping Wen, Yingfeng Zhang, Haibo Ma, Zhifeng Gao, Zheng Cheng</i></p>
 
-    <p><i><b>npj Computational Materials, 2025</b> (SCI Q1, 5-year Journal Impact Factor: 13.0 (2024))</i></p>
+    <p><i><b>npj Computational Materials, 2025</b> (SCI Q1, 5-year Journal Impact Factor: 13.0)</i></p>
 
     <p>
       [<a href="https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/67ffb41a50018ac7c5a45d5b/original/virtual-characterization-via-knowledge-enhanced-representation-learning-from-organic-conjugated-molecules-to-devices.pdf" target="_blank" style="color:#2a7ce0;">PDF</a>]
       [<a href="https://github.com/545487677/OCNet" target="_blank" style="color:#2a7ce0;">Code</a>]
     </p>
+
   </div>
 </div>
 
+<!-- JCIM - Data-Driven FF for Organic Semiconductors -->
+<div class="pub-entry">
+  <img src="./images/papers/JCIM.png" alt="Data-Driven Parametrization of All-Atom Force Fields for Organic Semiconductors">
+  <div class="pub-text">
+    <p><b>
+      <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5c00291" target="_blank" style="color:#2a7ce0; text-decoration:none;">
+        Data-Driven Parametrization of All-Atom Force Fields for Organic Semiconductors
+      </a>
+    </b></p>
 
+    <p><i>
+      <b>Guojiang Zhao</b><sup>*</sup>, Taiping Hu, Hongshuai Wang, Lirong Wu, Shuqi Lu, 
+      FengTianCi Yang, Shangqian Chen, Zhifeng Gao, Xinyan Wang, Zheng Cheng
+    </i></p>
 
+    <p><i><b>Journal of Chemical Information and Modeling (JCIM), 2025</b> 
+      (SCI Q1, 2-year Impact Factor 2024: 5.3)</i></p>
 
-
-
-
-<!-- 
-<style>
-.pub-entry {
-  display: flex;
-  align-items: flex-start;
-  margin-bottom: 24px;
-}
-.pub-entry img {
-  width: 280px;
-  height: auto;
-  border: 1.2px solid #464646;
-  padding: 5px;
-  border-radius: 14px;
-  box-shadow: 1.2px 1.2px #bbbbbb;
-  margin-right: 16px;
-}
-.pub-entry .pub-text {
-  font-family: Georgia, serif;
-  font-size: 0.95rem;
-}
-.pub-entry .pub-text p {
-  margin: 4px 0;
-}
-</style>
-
-<h2 id="Selected Publications">📝 Selected Publications</h2>
-
-<table class="imgtable" style="border:0; border-collapse:collapse; width:100%;">
-  <tr>
-    <td style="border:0; vertical-align:top; padding-right:16px; width:320px;">
-      <img
-        src="./images/papers/molreasoner.png"
-        alt="MolReasoner"
-        style="
-          display:block;
-          width:280px;           /* 调整这里可放大/缩小，例如 320/340/360 */
-          max-width:100%;        /* 小屏自动适配 */
-          height:auto; 
-          border:1.2px solid #464646;
-          padding:5px;
-          border-radius:14px;
-          box-shadow:1.2px 1.2px #bbbbbb;
-        "
-      />
-    </td>
-
-    <!-- 右侧文字列 -->
-    <td style="border:0; vertical-align:top;">
-      <p style="margin:0 0 6px 0;">
-        <span style="font-family:Georgia; font-size:0.95rem; font-weight:bold;">
-          <a href="https://arxiv.org/pdf/2508.02066" target="_blank" style="color:#2a7ce0; text-decoration:none;">
-            MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs
-          </a>
-        </span>
-      </p>
-
-      <p style="margin:0 0 6px 0; font-style:italic;">
-        <b>Guojiang Zhao</b><sup>*</sup>, Sihang Li<sup>*</sup>, Zixiang Lu, Zheng Cheng, Haitao Lin,
-        Lirong Wu, Hanchen Xia, Hengxing Cai, Wentao Guo, Hongshuai Wang, Mingjun Xu,
-        Siyu Zhu, Guolin Ke, Linfeng Zhang, Zhifeng Gao
-      </p>
-
-      <p style="margin:0 0 8px 0; font-style:italic;"><b>arXiv preprint: 2508.02066, 2025</b></p>
-
-      <p style="margin:0;">
-        [<a href="https://arxiv.org/pdf/2508.02066" target="_blank" style="color:#2a7ce0;">PDF</a>]
-        [<a href="https://github.com/545487677/MolReasoner" target="_blank" style="color:#2a7ce0;">Code</a>]
-      </p>
-    </td>
-
-  </tr>
-</table>
-
-
-**Virtual Characterization via Knowledge-Enhanced Representation Learning: from Organic Conjugated Molecules to Devices**
-**Guojiang Zhao**<sup>\*</sup>, Qi Ou<sup>\*</sup>, Zifeng Zhao<sup>\*</sup>, Shangqian Chen, Haitao Lin, Xiaohong Ji, Zhen Wang, Hongshuai Wang, Hengxing Cai, Lirong Wu, Shuqi Lu, FengTianCi Yang, Yaping Wen, Yingfeng Zhang, Haibo Ma, Zhifeng Gao, Zheng Cheng
-_npj Computational Materials, 2025 (SCI Q1, 5-year Journal Impact Factor: 13.0 (2024))_
-[📄 Paper](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/67ffb41a50018ac7c5a45d5b/original/virtual-characterization-via-knowledge-enhanced-representation-learning-from-organic-conjugated-molecules-to-devices.pdf) | [💻 Code](https://github.com/545487677/OCNet)  -->
+    <p>
+      [<a href="https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5c00291" target="_blank" style="color:#2a7ce0;">PDF</a>]
+    </p>
+  </div>
+</div>
