@@ -54,5 +54,5 @@ _arXiv preprint: 2508.02066, 2025_
 
 **Virtual Characterization via Knowledge-Enhanced Representation Learning: from Organic Conjugated Molecules to Devices**  
 **Guojiang Zhao**<sup>\*</sup>, Qi Ou<sup>\*</sup>, Zifeng Zhao<sup>\*</sup>, Shangqian Chen, Haitao Lin, Xiaohong Ji, Zhen Wang, Hongshuai Wang, Hengxing Cai, Lirong Wu, Shuqi Lu, FengTianCi Yang, Yaping Wen, Yingfeng Zhang, Haibo Ma, Zhifeng Gao, Zheng Cheng  
-_npj Computational Materials, 2025 (SCI Q1, Impact Factor: 11.9 (2024))_  
+_npj Computational Materials, 2025 (SCI Q1, 5-year Journal Impact Factor: 13.0 (2024))_  
 [📄 Paper](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/67ffb41a50018ac7c5a45d5b/original/virtual-characterization-via-knowledge-enhanced-representation-learning-from-organic-conjugated-molecules-to-devices.pdf) | [💻 Code](https://github.com/545487677/OCNet)
