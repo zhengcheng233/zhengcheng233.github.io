@@ -160,11 +160,38 @@ redirect_from:
       Lirong Wu, Zicheng Liu, Siyuan Li, Cheng Tan, Zhifeng Gao, Stan Z. Li
     </i></p>
 
-    <p><i><b><font color="#FF0000">ICLR 2025 (Spotlight)</font></b></i></p>
+    <p><i><b>ICLR, 2025 (<font color="#FF0000">Spotlight</font>)</b></i></p>
+
 
     <p>
       [<a href="https://openreview.net/forum?id=mOpNrrV2zH" target="_blank" style="color:#2a7ce0;">PDF</a>] 
       [<a href="https://github.com/EDAPINENUT/CBGBench" target="_blank" style="color:#2a7ce0;">Code</a>]
+    </p>
+  </div>
+</div>
+
+<!-- Closed-Loop AI Enables Organic Continuous-Wave Laser -->
+<div class="pub-entry">
+  <img src="./images/papers/laservae.png" alt="Closed-Loop AI Enables Organic Continuous-Wave Laser">
+  <div class="pub-text">
+    <p><b>
+      <a href="https://www.researchsquare.com/article/rs-6802885/v1" target="_blank" style="color:#2a7ce0; text-decoration:none;">
+        Closed-Loop AI Enables Organic Continuous-Wave Laser
+      </a>
+    </b></p>
+
+    <p><i>
+      Yun-Tao Ding<sup>*</sup>, <b>Guojiang Zhao</b><sup>*</sup>, Meng-Han Feng, Pei-Wei Si, Jin-Lin Qing, 
+      Hui-Qin Zhou, Yan-Ting Zhang, Xiao Chen, Wenjie Zhang, Zhangyue Yin, Wen-Jing Sun, 
+      Xue Jia, Ya-Ting Wang, Bing Sun, Yong Huo, Yamin Zhang, Guolin Ke, Linfeng Zhang, 
+      Chun-Lin Sun, Bowen Liu, Qi Ou, Zhifeng Gao, Zhigang Shuai, Hao-Li Zhang
+    </i></p>
+
+    <p><i><b>preprint, 2025</b></i></p>
+
+    <p>
+      [<a href="https://www.researchsquare.com/article/rs-6802885/v1" target="_blank" style="color:#2a7ce0;">PDF</a>] 
+      [<a href="https://github.com/545487677/Laser_Geo2Seq_VAE" target="_blank" style="color:#2a7ce0;">Code</a>]
     </p>
   </div>
 </div>
