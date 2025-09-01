@@ -337,3 +337,26 @@ redirect_from:
     </p>
   </div>
 </div>
+
+<!-- DCV - TNNLS 2022 -->
+<div class="pub-entry">
+  <img src="./images/papers/TNNLS_2022_DCV_cover.PNG" alt="Deep Clustering and Visualization for End-to-End High-Dimensional Data Analysis" style="height:220px;">
+  <div class="pub-text">
+    <p><b>
+      <a href="https://ieeexplore.ieee.org/abstract/document/9732198/" target="_blank" style="color:#2a7ce0; text-decoration:none;">
+        Deep Clustering and Visualization for End-to-End High-Dimensional Data Analysis
+      </a>
+    </b></p>
+
+    <p><i>
+      Lirong Wu, Lifan Yuan, <b>Guojiang Zhao</b>, Haitao Lin, Stan Z. Li
+    </i></p>
+
+    <p><i><b>TNNLS, 2022</b> (SCI Q1, Impact Factor: 8.9, CCF-B)</i></p>
+
+    <p>
+      [<a href="https://ieeexplore.ieee.org/abstract/document/9732198/" target="_blank" style="color:#2a7ce0;">PDF</a>] 
+      [<a href="https://github.com/LirongWu/DCV" target="_blank" style="color:#2a7ce0;">Code</a>]
+    </p>
+  </div>
+</div>
