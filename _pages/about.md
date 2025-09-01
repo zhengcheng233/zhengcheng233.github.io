@@ -197,6 +197,30 @@ redirect_from:
   </div>
 </div>
 
+<!-- Uni-Anti -->
+<div class="pub-entry">
+  <img src="./images/papers/ICLR_2025_UniAnti_cover.PNG" alt="A Simple yet Effective DDG Predictor is An Unsupervised Antibody Optimizer and Explainer">
+  <div class="pub-text">
+    <p><b>
+      <a href="https://openreview.net/forum?id=IxmWIkcKs5" target="_blank" style="color:#2a7ce0; text-decoration:none;">
+        A Simple yet Effective DDG Predictor is An Unsupervised Antibody Optimizer and Explainer
+      </a>
+    </b></p>
+
+    <p><i>
+      Lirong Wu, Yunfan Liu, Haitao Lin, Yufei Huang, <b>Guojiang Zhao</b>, Zhifeng Gao, et al.
+    </i></p>
+
+    <p><i><b>ICLR, 2025</b></i></p>
+
+    <p>
+      [<a href="https://openreview.net/forum?id=IxmWIkcKs5" target="_blank" style="color:#2a7ce0;">PDF</a>] 
+      [<a href="https://github.com/LirongWu/Uni-Anti" target="_blank" style="color:#2a7ce0;">Code</a>]
+    </p>
+  </div>
+</div>
+
+
 <!-- Closed-Loop AI Enables Organic Continuous-Wave Laser -->
 <div class="pub-entry">
   <img src="./images/papers/laservae.png" alt="Closed-Loop AI Enables Organic Continuous-Wave Laser">
