@@ -406,6 +406,12 @@ redirect_from:
   </div>
 </div>
 
+<p style="margin-top:16px; font-size:0.95rem;">
+  🔗 For the full list of publications, please visit my 
+  <a href="https://scholar.google.com/citations?user=uuqNt9cAAAAJ&hl=US" target="_blank" style="color:#2a7ce0; font-weight:bold;">
+    Google Scholar
+  </a>.
+</p>
 
 <h2 id="services">🤝 Academic Services</h2>
 
