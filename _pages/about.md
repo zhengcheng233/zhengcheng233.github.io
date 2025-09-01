@@ -420,7 +420,7 @@ redirect_from:
 </ul>
 
 <h2 id="standards">📑 Standards</h2>
-<div style="height:150px; overflow-y:auto;">
+<div style="height:80px; overflow-y:auto;">
   <ul>
     <li>
       <b>General Technical Specification for Health and Wellness Robots (康养机器人通用技术规范)</b><br>
