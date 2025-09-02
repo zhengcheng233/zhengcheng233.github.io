@@ -502,3 +502,6 @@ redirect_from:
     <li><b>National Scholarship (国家奖学金)</b>, 2019.10</li>
   </ul>
 </div>
+
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=UK94oR2zw-ItCDhuwQkvsEfpkvBtGrZxqBKVg5vhRmE"></script>
