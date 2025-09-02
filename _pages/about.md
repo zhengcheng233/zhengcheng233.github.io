@@ -214,12 +214,12 @@ redirect_from:
     <p><i><b>ICLR, 2025</b></i></p>
 
     <p>
-      [<a href="https://openreview.net/forum?id=IxmWIkcKs5" target="_blank" style="color:#2a7ce0;">PDF</a>] 
+      [<a href="https://openreview.net/forum?id=IxmWIkcKs5" target="_blank" style="color:#2a7ce0;">PDF</a>]
       [<a href="https://github.com/LirongWu/Uni-Anti" target="_blank" style="color:#2a7ce0;">Code</a>]
     </p>
+
   </div>
 </div>
-
 
 <!-- Closed-Loop AI Enables Organic Continuous-Wave Laser -->
 <div class="pub-entry">
@@ -267,6 +267,7 @@ redirect_from:
     <p>
       [<a href="https://aclanthology.org/2025.trl-1.4/" target="_blank" style="color:#2a7ce0;">PDF</a>]
     </p>
+
   </div>
 </div>
 
@@ -287,9 +288,10 @@ redirect_from:
     <p><i><b>TNNLS, 2024</b> (SCI Q1, Impact Factor: 8.9, CCF-B)</i></p>
 
     <p>
-      [<a href="https://ieeexplore.ieee.org/abstract/document/10699355" target="_blank" style="color:#2a7ce0;">PDF</a>] 
+      [<a href="https://ieeexplore.ieee.org/abstract/document/10699355" target="_blank" style="color:#2a7ce0;">PDF</a>]
       [<a href="https://github.com/LirongWu/GSSC" target="_blank" style="color:#2a7ce0;">Code</a>]
     </p>
+
   </div>
 </div>
 
@@ -310,9 +312,10 @@ redirect_from:
     <p><i><b>TKDE, 2024</b> (SCI Q1, Impact Factor: 10.4, CCF-A)</i></p>
 
     <p>
-      [<a href="https://ieeexplore.ieee.org/abstract/document/10476767" target="_blank" style="color:#2a7ce0;">PDF</a>] 
+      [<a href="https://ieeexplore.ieee.org/abstract/document/10476767" target="_blank" style="color:#2a7ce0;">PDF</a>]
       [<a href="https://github.com/LirongWu/TGS" target="_blank" style="color:#2a7ce0;">Code</a>]
     </p>
+
   </div>
 </div>
 
@@ -335,6 +338,7 @@ redirect_from:
     <p>
       [<a href="https://arxiv.org/pdf/2304.12239" target="_blank" style="color:#2a7ce0;">PDF</a>]
     </p>
+
   </div>
 </div>
 
@@ -355,9 +359,10 @@ redirect_from:
     <p><i><b>TNNLS, 2022</b> (SCI Q1, Impact Factor: 8.9, CCF-B)</i></p>
 
     <p>
-      [<a href="https://ieeexplore.ieee.org/abstract/document/9732198/" target="_blank" style="color:#2a7ce0;">PDF</a>] 
+      [<a href="https://ieeexplore.ieee.org/abstract/document/9732198/" target="_blank" style="color:#2a7ce0;">PDF</a>]
       [<a href="https://github.com/LirongWu/DCV" target="_blank" style="color:#2a7ce0;">Code</a>]
     </p>
+
   </div>
 </div>
 
@@ -378,9 +383,10 @@ redirect_from:
     <p><i><b>TMLR, 2022</b></i></p>
 
     <p>
-      [<a href="https://openreview.net/forum?id=NPfS5N3jbL" target="_blank" style="color:#2a7ce0;">PDF</a>] 
+      [<a href="https://openreview.net/forum?id=NPfS5N3jbL" target="_blank" style="color:#2a7ce0;">PDF</a>]
       [<a href="https://github.com/EDAPINENUT/GNTPP" target="_blank" style="color:#2a7ce0;">Code</a>]
     </p>
+
   </div>
 </div>
 
@@ -403,6 +409,7 @@ redirect_from:
     <p>
       [<a href="https://arxiv.org/pdf/2210.16848" target="_blank" style="color:#2a7ce0;">PDF</a>]
     </p>
+
   </div>
 </div>
 
@@ -467,6 +474,7 @@ redirect_from:
     <li><b>Robot (JZR360260)</b><br>
         China Patent: <b>ZL202030213430.8</b>, authorized <b>2020.11.06</b>
     </li>
+
   </ul>
 </div>
 
@@ -492,6 +500,7 @@ redirect_from:
     <li><b>Stacked ensemble model for molecular property prediction</b> (用于分子属性预测的堆叠式集成模型的处理方法和装置)<br>
         PCT Patent: <b>PCT/CN2023/130061</b>
     </li>
+
   </ul>
 </div>
 
@@ -503,5 +512,8 @@ redirect_from:
   </ul>
 </div>
 
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=UK94oR2zw-ItCDhuwQkvsEfpkvBtGrZxqBKVg5vhRmE"></script>
+<div style="width:200px; height:200px;">
+  <script type="text/javascript" id="clstr_globe" 
+    src="//clustrmaps.com/globe.js?d=UK94oR2zw-ItCDhuwQkvsEfpkvBtGrZxqBKVg5vhRmE">
+  </script>
+</div>
