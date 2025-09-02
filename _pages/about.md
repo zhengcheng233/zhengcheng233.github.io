@@ -512,8 +512,10 @@ redirect_from:
   </ul>
 </div>
 
-<div style="width:200px; height:200px;">
-  <script type="text/javascript" id="clstr_globe" 
-    src="//clustrmaps.com/globe.js?d=UK94oR2zw-ItCDhuwQkvsEfpkvBtGrZxqBKVg5vhRmE">
-  </script>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="width:200px; height:200px;">
+    <script type="text/javascript" id="clstr_globe" 
+      src="//clustrmaps.com/globe.js?d=UK94oR2zw-ItCDhuwQkvsEfpkvBtGrZxqBKVg5vhRmE">
+    </script>
+  </div>
 </div>
