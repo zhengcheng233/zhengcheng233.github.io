@@ -40,6 +40,7 @@ In addition, I have been invited as a speaker at multiple international and dome
       a two-stage framework (Mol-SFT + Mol-RL) that shifts LLMs from memorization to interpretable molecular reasoning for chemistry."
       Enjoy the fun of <a href="https://github.com/545487677/MolReasoner" target="_blank" style="color:#2a7ce0;">MolReasoner</a>!</li>
     <li><b><font color="#FF0000">[2025.06]</font></b> "Data-Driven Parametrization of All-Atom Force Fields for Organic Semiconductors" is accepted by <b><em>Journal of Chemical Information and Modeling</em></b>.Enjoy the fun of <a href="https://github.com/zhengcheng233/OSCFF" target="_blank" style="color:#2a7ce0;">OSCFF</a>!</li></li>
+</ul>
 </div>
 
 <style>
