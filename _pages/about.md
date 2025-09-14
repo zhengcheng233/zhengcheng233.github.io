@@ -32,37 +32,14 @@ In addition, I have been invited as a speaker at multiple international and dome
 
 <p>📧 Email: <a href="mailto:chengz@aisi.ac.cn">chengz@aisi.an.cn</a> 
 
-</div>
-
 <h2 id="News">News 🔥</h2>
 <div style="height:300px; overflow-y:auto;">
   <ul>
-    <li><b><font color="#FF0000">[2025.08]</font></b> <strong>One paper is </strong> accepted by <b><em>npj Computational Materials</em></b>.</li>
-
-    <li>
-      <b><font color="#FF0000">[2025.08]</font></b> Excited to release:
-      <strong>MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs</strong> —
-      a two-stage framework (Mol-SFT + Mol-RL) that shifts LLMs from memorization to interpretable molecular reasoning for chemistry.
-      Enjoy the fun of <a href="https://github.com/545487677/MolReasoner" target="_blank" style="color:#2a7ce0;">MolReasoner</a>!
-    </li>
-
-    <li><b><font color="#FF0000">[2025.06]</font></b> <strong>One paper is </strong> accepted by <b><em>Journal of Chemical Information and Modeling</em></b>.</li>
-
-    <li><b><font color="#FF0000">[2025.06]</font></b> <strong>One paper is </strong> accepted at <b><em>TRL@ACL 2025 (Oral)</em></b>.</li>
-
-    <li><b><font color="#FF0000">[2025.02]</font></b> <strong>Two papers are</strong> accepted by <b><em>ICLR 2025 (1 Spotlight)</em></b>.</li>
-
-    <li><b><font color="#FF0000">[2024.09]</font></b> <strong>One paper is</strong> accepted by <b><em>TNNLS</em></b>.</li>
-
-    <li><b><font color="#FF0000">[2024.03]</font></b> <strong>One paper is</strong> accepted by <b><em>TKDE</em></b>.</li>
-
-    <li><b><font color="#FF0000">[2022.08]</font></b> <strong>One paper is</strong> accepted by <b><em>TMLR</em></b>.</li>
-
-    <li><b><font color="#FF0000">[2022.05]</font></b> <strong>One paper is</strong> accepted by <b><em>ACL</em></b>.</li>
-
-    <li><b><font color="#FF0000">[2022.02]</font></b> <strong>One paper is</strong> accepted by <b><em>TNNLS</em></b>.</li>
-
-  </ul>
+    <li><b><font color="#FF0000">[2025.08]</font></b> <strong> </strong> "Virtual Characterization via Knowledge-Enhanced Representation Learning: from Organic Conjugated Molecules to Devices" is accepted by <b><em>npj Computational Materials.</em></b> Enjoy the fun of <a href="https://github.com/545487677/OCNet" target="_blank" style="color:#2a7ce0;">OCNet</a>!</li>
+    <li><b><font color="#FF0000">[2025.08]</font></b> Excited to release:"MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs —
+      a two-stage framework (Mol-SFT + Mol-RL) that shifts LLMs from memorization to interpretable molecular reasoning for chemistry."
+      Enjoy the fun of <a href="https://github.com/545487677/MolReasoner" target="_blank" style="color:#2a7ce0;">MolReasoner</a>!</li>
+    <li><b><font color="#FF0000">[2025.06]</font></b> "Data-Driven Parametrization of All-Atom Force Fields for Organic Semiconductors" is accepted by <b><em>Journal of Chemical Information and Modeling</em></b>.Enjoy the fun of <a href="https://github.com/zhengcheng233/OSCFF" target="_blank" style="color:#2a7ce0;">OSCFF</a>!</li></li>
 </div>
 
 <style>
@@ -185,251 +162,9 @@ In addition, I have been invited as a speaker at multiple international and dome
   </div>
 </div>
 
-<!-- CBGBench -->
-<div class="pub-entry">
-  <img src="./images/papers/cgbbench.png" alt="CBGBench">
-  <div class="pub-text">
-    <p><b>
-      <a href="https://openreview.net/forum?id=mOpNrrV2zH" target="_blank" style="color:#2a7ce0; text-decoration:none;">
-        CBGBench: Fill in the Blank of Protein-Molecule Complex Binding Graph
-      </a>
-    </b></p>
-
-    <p><i>
-      Haitao Lin<sup>*</sup>, <b>Guojiang Zhao</b><sup>*</sup>, Odin Zhang, Yufei Huang,
-      Lirong Wu, Zicheng Liu, Siyuan Li, Cheng Tan, Zhifeng Gao, Stan Z. Li
-    </i></p>
-
-    <p><i><b>ICLR, 2025 (<font color="#FF0000">Spotlight</font>)</b></i></p>
-
-
-    <p>
-      [<a href="https://openreview.net/forum?id=mOpNrrV2zH" target="_blank" style="color:#2a7ce0;">PDF</a>]
-      [<a href="https://github.com/EDAPINENUT/CBGBench" target="_blank" style="color:#2a7ce0;">Code</a>]
-    </p>
-
-  </div>
-</div>
-
-<!-- Uni-Anti -->
-<div class="pub-entry">
-  <img src="./images/papers/ICLR_2025_UniAnti_cover.PNG" alt="A Simple yet Effective DDG Predictor is An Unsupervised Antibody Optimizer and Explainer">
-  <div class="pub-text">
-    <p><b>
-      <a href="https://openreview.net/forum?id=IxmWIkcKs5" target="_blank" style="color:#2a7ce0; text-decoration:none;">
-        A Simple yet Effective DDG Predictor is An Unsupervised Antibody Optimizer and Explainer
-      </a>
-    </b></p>
-
-    <p><i>
-      Lirong Wu, Yunfan Liu, Haitao Lin, Yufei Huang, <b>Guojiang Zhao</b>, Zhifeng Gao, et al.
-    </i></p>
-
-    <p><i><b>ICLR, 2025</b></i></p>
-
-    <p>
-      [<a href="https://openreview.net/forum?id=IxmWIkcKs5" target="_blank" style="color:#2a7ce0;">PDF</a>]
-      [<a href="https://github.com/LirongWu/Uni-Anti" target="_blank" style="color:#2a7ce0;">Code</a>]
-    </p>
-
-  </div>
-</div>
-
-<!-- Closed-Loop AI Enables Organic Continuous-Wave Laser -->
-<div class="pub-entry">
-  <img src="./images/papers/laservae.png" alt="Closed-Loop AI Enables Organic Continuous-Wave Laser">
-  <div class="pub-text">
-    <p><b>
-      <a href="https://www.researchsquare.com/article/rs-6802885/v1" target="_blank" style="color:#2a7ce0; text-decoration:none;">
-        Closed-Loop AI Enables Organic Continuous-Wave Laser
-      </a>
-    </b></p>
-
-    <p><i>
-      Yun-Tao Ding<sup>*</sup>, <b>Guojiang Zhao</b><sup>*</sup>, Meng-Han Feng, Pei-Wei Si, Jin-Lin Qing,
-      Hui-Qin Zhou, Yan-Ting Zhang, Xiao Chen, Wenjie Zhang, Zhangyue Yin, Wen-Jing Sun,
-      Xue Jia, Ya-Ting Wang, Bing Sun, Yong Huo, Yamin Zhang, Guolin Ke, Linfeng Zhang,
-      Chun-Lin Sun, Bowen Liu, Qi Ou, Zhifeng Gao, Zhigang Shuai, Hao-Li Zhang
-    </i></p>
-
-    <p><i><b>preprint, 2025</b></i></p>
-
-    <p>
-      [<a href="https://www.researchsquare.com/article/rs-6802885/v1" target="_blank" style="color:#2a7ce0;">PDF</a>]
-      [<a href="https://github.com/545487677/Laser_Geo2Seq_VAE" target="_blank" style="color:#2a7ce0;">Code</a>]
-    </p>
-
-  </div>
-</div>
-
-<!-- R3 - TRL@ACL -->
-<div class="pub-entry">
-  <img src="./images/papers/trlacl.png" alt='R^3: "This is My SQL, Are You With Me?"'>
-  <div class="pub-text">
-    <p><b>
-      <a href="https://aclanthology.org/2025.trl-1.4/" target="_blank" style="color:#2a7ce0; text-decoration:none;">
-        R<sup>3</sup>: "This is My SQL, Are You With Me?" A Consensus-Based Multi-Agent System for Text-to-SQL Tasks
-      </a>
-    </b></p>
-
-    <p><i>
-      Hanchen Xia, Feng Jiang, Naihao Deng, Cunxiang Wang, <b>Guojiang Zhao</b>, Rada Mihalcea, Yue Zhang
-    </i></p>
-
-    <p><i><b>TRL@ACL, 2025 (<font color="#FF0000">Oral</font>)</b></i></p>
-
-    <p>
-      [<a href="https://aclanthology.org/2025.trl-1.4/" target="_blank" style="color:#2a7ce0;">PDF</a>]
-    </p>
-
-  </div>
-</div>
-
-<!-- GSSC - TNNLS 2024 -->
-<div class="pub-entry">
-  <img src="./images/papers/TNNLS_2024_GSSC_cover.PNG" alt="Learning to Model Graph Structural Information on MLPs via Graph Structure Self-Contrasting">
-  <div class="pub-text">
-    <p><b>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10699355" target="_blank" style="color:#2a7ce0; text-decoration:none;">
-        Learning to Model Graph Structural Information on MLPs via Graph Structure Self-Contrasting
-      </a>
-    </b></p>
-
-    <p><i>
-      Lirong Wu, Haitao Lin, <b>Guojiang Zhao</b>, Cheng Tan, Stan Z. Li
-    </i></p>
-
-    <p><i><b>TNNLS, 2024</b> (SCI Q1, Impact Factor: 8.9, CCF-B)</i></p>
-
-    <p>
-      [<a href="https://ieeexplore.ieee.org/abstract/document/10699355" target="_blank" style="color:#2a7ce0;">PDF</a>]
-      [<a href="https://github.com/LirongWu/GSSC" target="_blank" style="color:#2a7ce0;">Code</a>]
-    </p>
-
-  </div>
-</div>
-
-<!-- TGS - TKDE 2024 -->
-<div class="pub-entry">
-  <img src="./images/papers/TKDE_2024_TGS_cover.PNG" alt="A Teacher-Free Graph Knowledge Distillation Framework with Dual Self-Distillation">
-  <div class="pub-text">
-    <p><b>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10476767" target="_blank" style="color:#2a7ce0; text-decoration:none;">
-        A Teacher-Free Graph Knowledge Distillation Framework with Dual Self-Distillation
-      </a>
-    </b></p>
-
-    <p><i>
-      Lirong Wu, Haitao Lin, Zhangyang Gao, <b>Guojiang Zhao</b>, Stan Z. Li
-    </i></p>
-
-    <p><i><b>TKDE, 2024</b> (SCI Q1, Impact Factor: 10.4, CCF-A)</i></p>
-
-    <p>
-      [<a href="https://ieeexplore.ieee.org/abstract/document/10476767" target="_blank" style="color:#2a7ce0;">PDF</a>]
-      [<a href="https://github.com/LirongWu/TGS" target="_blank" style="color:#2a7ce0;">Code</a>]
-    </p>
-
-  </div>
-</div>
-
-<!-- Uni-QSAR - arXiv 2023 -->
-<div class="pub-entry">
-  <img src="./images/papers/uniqsar.png" alt="Uni-QSAR: An Auto-ML Tool for Molecular Property Prediction">
-  <div class="pub-text">
-    <p><b>
-      <a href="https://arxiv.org/pdf/2304.12239" target="_blank" style="color:#2a7ce0; text-decoration:none;">
-        Uni-QSAR: An Auto-ML Tool for Molecular Property Prediction
-      </a>
-    </b></p>
-
-    <p><i>
-      Zhifeng Gao, Xiaohong Ji, <b>Guojiang Zhao</b>, Hongshuai Wang, Hang Zheng, Guolin Ke, Linfeng Zhang
-    </i></p>
-
-    <p><i><b>arXiv preprint: 2304.12239, 2023</b></i></p>
-
-    <p>
-      [<a href="https://arxiv.org/pdf/2304.12239" target="_blank" style="color:#2a7ce0;">PDF</a>]
-    </p>
-
-  </div>
-</div>
-
-<!-- DCV - TNNLS 2022 -->
-<div class="pub-entry">
-  <img src="./images/papers/TNNLS_2022_DCV_cover.PNG" alt="Deep Clustering and Visualization for End-to-End High-Dimensional Data Analysis" >
-  <div class="pub-text">
-    <p><b>
-      <a href="https://ieeexplore.ieee.org/abstract/document/9732198/" target="_blank" style="color:#2a7ce0; text-decoration:none;">
-        Deep Clustering and Visualization for End-to-End High-Dimensional Data Analysis
-      </a>
-    </b></p>
-
-    <p><i>
-      Lirong Wu, Lifan Yuan, <b>Guojiang Zhao</b>, Haitao Lin, Stan Z. Li
-    </i></p>
-
-    <p><i><b>TNNLS, 2022</b> (SCI Q1, Impact Factor: 8.9, CCF-B)</i></p>
-
-    <p>
-      [<a href="https://ieeexplore.ieee.org/abstract/document/9732198/" target="_blank" style="color:#2a7ce0;">PDF</a>]
-      [<a href="https://github.com/LirongWu/DCV" target="_blank" style="color:#2a7ce0;">Code</a>]
-    </p>
-
-  </div>
-</div>
-
-<!-- GNTPP - TMLR 2022 -->
-<div class="pub-entry">
-  <img src="./images/papers/TMLR.png" alt="Exploring Generative Neural Temporal Point Process" >
-  <div class="pub-text">
-    <p><b>
-      <a href="https://openreview.net/forum?id=NPfS5N3jbL" target="_blank" style="color:#2a7ce0; text-decoration:none;">
-        Exploring Generative Neural Temporal Point Process
-      </a>
-    </b></p>
-
-    <p><i>
-      Haitao Lin, Lirong Wu, <b>Guojiang Zhao</b>, Pai Liu, Stan Z. Li
-    </i></p>
-
-    <p><i><b>TMLR, 2022</b></i></p>
-
-    <p>
-      [<a href="https://openreview.net/forum?id=NPfS5N3jbL" target="_blank" style="color:#2a7ce0;">PDF</a>]
-      [<a href="https://github.com/EDAPINENUT/GNTPP" target="_blank" style="color:#2a7ce0;">Code</a>]
-    </p>
-
-  </div>
-</div>
-
-<!-- ACL 2022 -->
-<div class="pub-entry">
-  <img src="./images/papers/ACL.png" alt="Using Context-to-Vector with Graph Retrofitting to Improve Word Embeddings" >
-  <div class="pub-text">
-    <p><b>
-      <a href="https://arxiv.org/pdf/2210.16848" target="_blank" style="color:#2a7ce0; text-decoration:none;">
-        Using Context-to-Vector with Graph Retrofitting to Improve Word Embeddings
-      </a>
-    </b></p>
-
-    <p><i>
-      Jiangbin Zheng, Yile Wang, Ge Wang, Jun Xia, Yufei Huang, <b>Guojiang Zhao</b>, Yue Zhang, Stan Z. Li
-    </i></p>
-
-    <p><i><b>ACL, 2022</b> (CCF-A)</i></p>
-
-    <p>
-      [<a href="https://arxiv.org/pdf/2210.16848" target="_blank" style="color:#2a7ce0;">PDF</a>]
-    </p>
-
-  </div>
-</div>
-
 <p style="margin-top:16px; font-size:0.95rem;">
   🔗 For the full list of publications, please visit my 
-  <a href="https://scholar.google.com/citations?user=uuqNt9cAAAAJ&hl=US" target="_blank" style="color:#2a7ce0; font-weight:bold;">
+  <a href="https://scholar.google.com.hk/citations?user=8NyhyPcAAAAJ&hl=zh-CN&oi=sra" target="_blank" style="color:#2a7ce0; font-weight:bold;">
     Google Scholar
   </a>.
 </p>
@@ -437,60 +172,11 @@ In addition, I have been invited as a speaker at multiple international and dome
 <h2 id="services">🤝 Academic Services</h2>
 
 <ul>
-  <li><b>Program Committee Member | Reviewer</b> — AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</li>
+  <li><b>Journal Reviewer</b> — Journal of Chemical Theory and Computation; Physical Chemistry Chemical Physics</li>
 </ul>
 
-<h2 id="standards">📑 Standards</h2>
-<ul>
-  <li>
-    <b>General Technical Specification for Health and Wellness Robots (康养机器人通用技术规范)</b><br>
-    First author — T/YGAZXH 4—2025, released on <b>2025.01.25</b>
-  </li>
-</ul>
 
 <h2 id="patents">🔖 Patents</h2>
-
-<h3>🤖 Robotics-related patents</h3>
-<div style="height:300px; overflow-y:auto;">
-  <ul>
-    <li><b>A health monitoring intelligent robot management system and method</b> (一种应用于健康监测的智能化机器人管理系统及方法)<br>
-        China Patent: <b>ZL202410898780.X</b>, authorized <b>2025.01.10</b>
-    </li>
-
-    <li><b>A health management system and method based on multi-source data acquisition and analysis</b> (基于多源数据采集分析的健康管理系统及方法)<br>
-        China & Japan Patent: <b>ZL202411580423.5</b>, authorized <b>2025.01.07</b>
-    </li>
-
-    <li><b>A multimodal human-machine collaboration interaction system and method</b> (多模态下人机协同交互系统及方法)<br>
-        China & U.S. Patent: <b>ZL202411348336.7 / 12322393</b>, authorized <b>2024.12.13</b>
-    </li>
-
-    <li><b>Unmanned sightseeing interactive robot</b> (无人驾驶观光交互机器人)<br>
-        China Patent: <b>ZL202110339122.3</b>, authorized <b>2023.04.07</b>
-    </li>
-
-    <li><b>Preschool education robot</b> (幼教机器人)<br>
-        China Patent: <b>ZL202120388786.9</b>, authorized <b>2023.05.23</b>
-    </li>
-
-    <li><b>Unmanned sightseeing interactive robot (design patent)</b> (无人驾驶观光交互机器人)<br>
-        China Patent: <b>ZL202130732575.3</b>, authorized <b>2022.08.05</b>
-    </li>
-
-    <li><b>Smart robot control GUI for display screen panels</b> (显示屏幕面板的智能机器人控制交互图形用户界面)<br>
-        China Patent: <b>2021301914491</b>, authorized <b>2021.11.05</b>
-    </li>
-
-    <li><b>A robotic arm motion control device</b> (一种机器人手臂动作控制装置)<br>
-        China Patent: <b>ZL202020755905.0</b>, authorized <b>2021.01.01</b>
-    </li>
-
-    <li><b>Robot (JZR360260)</b><br>
-        China Patent: <b>ZL202030213430.8</b>, authorized <b>2020.11.06</b>
-    </li>
-
-  </ul>
-</div>
 
 <h3>🔬 AI4S-related patents</h3>
 <div style="height:220px; overflow-y:auto;">
@@ -521,8 +207,8 @@ In addition, I have been invited as a speaker at multiple international and dome
 <h2 id="awards">🏆 Awards</h2>
 <div style="height:120px; overflow-y:auto;">
   <ul>
-    <li><b>European Good Design Award – Bronze Award</b>, 2022</li>
-    <li><b>National Scholarship (国家奖学金)</b>, 2019.10</li>
+    <li><b>2024年光电材料分子设计国际研讨会优秀报告</b></li>
+    <li><b>2025年中国材料大会优秀报告<b></li>
   </ul>
 </div>
 
