@@ -93,7 +93,7 @@ In addition, I have been invited as a speaker at multiple international and dome
       MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs
     </a></b></p>
 
-    <p><i><b>Guojiang Zhao</b><sup>*</sup>, Sihang Li<sup>*</sup>, Zixiang Lu, Zheng Cheng, Haitao Lin,
+    Guojiang Zhao, Sihang Li, Zixiang Lu, Zheng Cheng, Haitao Lin,
        Lirong Wu, Hanchen Xia, Hengxing Cai, Wentao Guo, Hongshuai Wang, Mingjun Xu,
        Siyu Zhu, Guolin Ke, Linfeng Zhang, Zhifeng Gao</i></p>
 
@@ -115,7 +115,7 @@ In addition, I have been invited as a speaker at multiple international and dome
       Virtual Characterization via Knowledge-Enhanced Representation Learning: from Organic Conjugated Molecules to Devices
     </a></b></p>
 
-    <p><i><b>Guojiang Zhao</b><sup>*</sup>, Qi Ou<sup>*</sup>, Zifeng Zhao<sup>*</sup>, Shangqian Chen, Haitao Lin,
+    Guojiang Zhao, Qi Ou, Zifeng Zhao, Shangqian Chen, Haitao Lin,
        Xiaohong Ji, Zhen Wang, Hongshuai Wang, Hengxing Cai, Lirong Wu, Shuqi Lu, FengTianCi Yang,
        Yaping Wen, Yingfeng Zhang, Haibo Ma, Zhifeng Gao, Zheng Cheng</i></p>
 
@@ -140,7 +140,7 @@ In addition, I have been invited as a speaker at multiple international and dome
     </b></p>
 
     <p><i>
-      <b>Guojiang Zhao</b><sup>*</sup>, Taiping Hu, Hongshuai Wang, Lirong Wu, Shuqi Lu,
+      Guojiang Zhao, Taiping Hu, Hongshuai Wang, Lirong Wu, Shuqi Lu,
       FengTianCi Yang, Shangqian Chen, Zhifeng Gao, Xinyan Wang, Zheng Cheng
     </i></p>
 
@@ -165,7 +165,7 @@ In addition, I have been invited as a speaker at multiple international and dome
     </b></p>
 
     <p><i>
-      <b>Guojiang Zhao</b><sup>*</sup>, Zheng Cheng<sup>*</sup>, Kele Xu, Tianjiao Wan, Ming Feng, Shuqi Lu,
+      Guojiang Zhao, Zheng Cheng, Kele Xu, Tianjiao Wan, Ming Feng, Shuqi Lu,
       Hongshuai Wang, Zijian Gao, Qi Ou, Liang Hu, Dawei Feng, Zifeng Zhao, Zhifeng Gao
     </i></p>
 
