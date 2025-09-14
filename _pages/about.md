@@ -33,15 +33,30 @@ In addition, I have been invited as a speaker at multiple international and dome
 <p>📧 Email: <a href="mailto:chengz@aisi.ac.cn">chengz@aisi.an.cn</a> 
 
 <h2 id="News">News 🔥</h2>
-<div style="height:300px; overflow-y:auto;">
+
+<div style="max-height:300px; overflow-y:auto;">
   <ul>
-    <li><b><font color="#FF0000">[2025.08]</font></b> “Virtual Characterization via Knowledge-Enhanced Representation Learning: from Organic Conjugated Molecules to Devices” is accepted by <b><em>npj Computational Materials</em></b>. Enjoy the fun of <a href="https://github.com/545487677/OCNet" target="_blank" style="color:#2a7ce0;">OCNet</a>!</li>
+    <li><b><span style="color:#FF0000;">[2025.08]</span></b>
+      “Virtual Characterization via Knowledge-Enhanced Representation Learning: from Organic Conjugated Molecules to Devices” is accepted by
+      <b><em>npj Computational Materials</em></b>. Enjoy the fun of
+      <a href="https://github.com/545487677/OCNet" target="_blank" style="color:#2a7ce0;">OCNet</a>!
+    </li>
 
-    <li><b><font color="#FF0000">[2025.08]</font></b> Excited to release: <strong>MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs</strong> — a two-stage framework (Mol-SFT + Mol-RL) that shifts LLMs from memorization to interpretable molecular reasoning for chemistry. Enjoy the fun of <a href="https://github.com/545487677/MolReasoner" target="_blank" style="color:#2a7ce0;">MolReasoner</a>!</li>
+    <li><b><span style="color:#FF0000;">[2025.08]</span></b>
+      Excited to release: <strong>MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs</strong> —
+      a two-stage framework (Mol-SFT + Mol-RL) that shifts LLMs from memorization to interpretable molecular reasoning for chemistry.
+      Enjoy the fun of
+      <a href="https://github.com/545487677/MolReasoner" target="_blank" style="color:#2a7ce0;">MolReasoner</a>!
+    </li>
 
-    <li><b><font color="#FF0000">[2025.06]</font></b> “Data-Driven Parametrization of All-Atom Force Fields for Organic Semiconductors” is accepted by <b><em>Journal of Chemical Information and Modeling</em></b>. Enjoy the fun of <a href="https://github.com/zhengcheng233/OSCFF" target="_blank" style="color:#2a7ce0;">OSCFF</a>!</li>
+    <li><b><span style="color:#FF0000;">[2025.06]</span></b>
+      “Data-Driven Parametrization of All-Atom Force Fields for Organic Semiconductors” is accepted by
+      <b><em>Journal of Chemical Information and Modeling</em></b>. Enjoy the fun of
+      <a href="https://github.com/zhengcheng233/OSCFF" target="_blank" style="color:#2a7ce0;">OSCFF</a>!
+    </li>
   </ul>
 </div>
+
 
 <style>
 .pub-entry {
@@ -207,7 +222,8 @@ In addition, I have been invited as a speaker at multiple international and dome
 </div>
 
 <h2 id="awards">🏆 Awards</h2>
-<div style="height:120px; overflow-y:auto;">
+
+<div style="max-height:120px; overflow-y:auto;">
   <ul>
     <li><b>2024年光电材料分子设计国际研讨会优秀报告</b></li>
     <li><b>2025年中国材料大会优秀报告</b></li>
