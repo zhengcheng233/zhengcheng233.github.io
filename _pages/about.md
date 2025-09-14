@@ -8,15 +8,29 @@ redirect_from:
 ---
 
 <div style="text-align: justify; text-justify: inter-word;">
-<p>Hello! I am Guojiang Zhao (you can also call me Cody), currently working at DP Technology, where I am fortunate to be mentored by <a href="https://scholar.google.com/citations?user=uBo3SJcAAAAJ&hl=en" target="_blank"><b>Zhifeng Gao</b></a>  and <a href="https://scholar.google.com/citations?user=M2qJgtoAAAAJ&hl=en" target="_blank"><b>Guolin Ke</b></a>. My research focuses on molecular design, large language models (LLMs) reasoning, and self-evolving agents. Broadly, my interests lie in AI for Science (AI4S), particularly in molecular and materials generation, virtual characterization, and property prediction. Building on these directions, I am now exploring LLM-driven reasoning frameworks and multi-agent systems to advance intelligent scientific discovery and molecular design.</p>
+<p>Hello! I am Zheng Cheng, a researcher at the AI for Science Institute, Beijing (AISI).
+My work lies at the intersection of materials science and artificial intelligence, focusing on:
 
-<p>I received my M.S. in Information Systems Management from Carnegie Mellon University  in 2023, and my B.S. in Information and Computing Science (Mathematics track) from Xi’an University of Posts and Telecommunications (XUPT), where I ranked first in my major. In addition, I have had visiting research experiences at the National University of Singapore (NUS) and the <a href="https://en.westlake.edu.cn/faculty/stan-zq-li.html" target="_blank"><b>Stan Z. Li Lab</b></a> at Westlake University. Previously, I also gained industry research experience through internships at WeChat (Tencent), MetaApp, and Huawei.</p>
+- Functional materials design
 
-<p>If you are interested in AI4S, LLM reasoning, or intelligent agents, feel free to reach out — I am always happy to discuss and collaborate!</p>
+- Multiscale simulations and high-precision force fields
 
-<p>📧 Email: <a href="mailto:cody545487677@gmail.com">cody545487677@gmail.com</a> (Preferred); 
-<a href="mailto:guojianz@alumni.cmu.edu">guojianz@alumni.cmu.edu</a>; 
-<a href="mailto:zhaogj@dp.tech">zhaogj@dp.tech</a></p>
+- Chemistry-inspired generative models and LLM reasoning
+
+- Virtual characterization and property prediction
+
+Currently, I am particularly interested in forward prediction and inverse molecular generation algorithms, and in developing multi-agent systems that enable more intelligent and automated scientific discovery.</p>
+
+<p>I received my Ph.D. in Physical Chemistry from Nanjing University at the <a href="https://itcc.nju.edu.cn/shuhua/" target="_blank"><b>Shuhua Li & Wei Li Group</b></a>. 
+After that, I worked as a Postdoctoral Researcher in the group of 
+<a href="https://cmlr.pku.edu.cn/People/Faculty/c705a4aae5104b0bb3e86a3cc1683fee.htm" target="_blank"><b>Academician Weinan E</b></a> 
+at Peking University, and I also held a visiting scholar position at 
+<a href="https://www.westlake.edu.cn/faculty/jing-huang.html" target="_blank"><b>Jing Huang</b></a>, Westlake University and <a href="https://www.sigs.tsinghua.edu.cn/yk/list.htm" target="_blank"><b>Kuang Yu</b></a>, Tsinghua University. 
+In addition, I have been invited as a speaker at multiple international and domestic conferences on materials science.</p>
+
+<p>If you are interested in AI4S in Functional Materials, feel free to reach out — I am always happy to discuss and collaborate!</p>
+
+<p>📧 Email: <a href="mailto:chengz@aisi.ac.cn">chengz@aisi.an.cn</a> 
 
 </div>
 
